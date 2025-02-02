@@ -1,0 +1,8000 @@
+[{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f42a2e"
+  },
+  "ref_licencia": "500/2017/07359",
+  "id_local": 280017510,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "21/03/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3dde1"
+  },
+  "ref_licencia": "500/2021/04085",
+  "id_local": 270542742,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "05/07/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f53bae"
+  },
+  "ref_licencia": "500/2018/10009",
+  "id_local": 90001438,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "05/03/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f451f8"
+  },
+  "ref_licencia": "500/2017/08297",
+  "id_local": 280045977,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "11/05/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3aac2"
+  },
+  "ref_licencia": "500/2015/12558",
+  "id_local": 270511812,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "29/01/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f485ff"
+  },
+  "ref_licencia": "500/2015/06392",
+  "id_local": 280007205,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "19/11/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3f081"
+  },
+  "ref_licencia": "500/2019/02281",
+  "id_local": 280000013,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/08/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f56afd"
+  },
+  "ref_licencia": "500/2021/04517",
+  "id_local": 210000726,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/08/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3c266"
+  },
+  "ref_licencia": "500/2018/11828",
+  "id_local": 270532853,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "05/12/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4ed28"
+  },
+  "ref_licencia": "500/2014/08168",
+  "id_local": 280055218,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "19/10/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3964d"
+  },
+  "ref_licencia": "500/2020/04164",
+  "id_local": 270476126,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "25/11/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4b556"
+  },
+  "ref_licencia": "500/2015/01547",
+  "id_local": 285001122,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "17/04/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f50997"
+  },
+  "ref_licencia": "500/2017/13533",
+  "id_local": 285008997,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/02/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f48ec8"
+  },
+  "ref_licencia": "500/2015/06066",
+  "id_local": 280066675,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "16/04/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f46c98"
+  },
+  "ref_licencia": "500/2017/00964",
+  "id_local": 280002055,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "08/06/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5b6c5"
+  },
+  "ref_licencia": "500/2016/11959",
+  "id_local": 270315662,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "18/09/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3a471"
+  },
+  "ref_licencia": "500/2017/04200",
+  "id_local": 270486135,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "06/03/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4b6f6"
+  },
+  "ref_licencia": "500/2021/00715",
+  "id_local": 285009770,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "12/02/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3fab3"
+  },
+  "ref_licencia": "500/2017/12364",
+  "id_local": 270558305,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "29/04/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f46a38"
+  },
+  "ref_licencia": "500/2019/11617",
+  "id_local": 280051012,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "22/11/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4b18e"
+  },
+  "ref_licencia": "500/2016/09167",
+  "id_local": 280065418,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "04/06/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4b345"
+  },
+  "ref_licencia": "500/2016/04765",
+  "id_local": 285002875,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "03/01/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4ea2d"
+  },
+  "ref_licencia": "500/2015/11484",
+  "id_local": 280053641,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "12/04/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f45d82"
+  },
+  "ref_licencia": "500/2018/06437",
+  "id_local": 280035648,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "11/02/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f53836"
+  },
+  "ref_licencia": "500/2014/11007",
+  "id_local": 70000440,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "14/03/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f51bce"
+  },
+  "ref_licencia": "500/2014/03974",
+  "id_local": 10001612,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "04/12/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f5425d"
+  },
+  "ref_licencia": "500/2017/01477",
+  "id_local": 110000600,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "24/01/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f48ac3"
+  },
+  "ref_licencia": "500/2018/00259",
+  "id_local": 280012172,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "20/09/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4abd4"
+  },
+  "ref_licencia": "500/2020/01858",
+  "id_local": 280073615,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "31/07/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f575a2"
+  },
+  "ref_licencia": "500/2015/07912",
+  "id_local": 270025864,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "11/04/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f498cb"
+  },
+  "ref_licencia": "500/2016/15661",
+  "id_local": 280058496,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "24/01/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f59954"
+  },
+  "ref_licencia": "500/2017/00548",
+  "id_local": 270114637,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "14/12/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4dba4"
+  },
+  "ref_licencia": "500/2019/07306",
+  "id_local": 285030363,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "10/09/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f46518"
+  },
+  "ref_licencia": "500/2018/04967",
+  "id_local": 280048403,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "11/02/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f500d4"
+  },
+  "ref_licencia": "500/2018/03422",
+  "id_local": 280045760,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/04/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f49606"
+  },
+  "ref_licencia": "500/2016/10641",
+  "id_local": 280008578,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "27/06/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f40cd0"
+  },
+  "ref_licencia": "500/2017/05447",
+  "id_local": 280002971,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "10/05/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f54f03"
+  },
+  "ref_licencia": "500/2019/07183",
+  "id_local": 130001231,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "23/10/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f39a14"
+  },
+  "ref_licencia": "500/2015/06228",
+  "id_local": 270486894,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "01/02/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f46e3c"
+  },
+  "ref_licencia": "500/2018/13920",
+  "id_local": 280047433,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "08/10/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f40be2"
+  },
+  "ref_licencia": "500/2018/07813",
+  "id_local": 280010094,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/08/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f57cae"
+  },
+  "ref_licencia": "500/2020/07334",
+  "id_local": 270042847,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "18/01/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4e52f"
+  },
+  "ref_licencia": "500/2019/03725",
+  "id_local": 285013108,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "27/05/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4a112"
+  },
+  "ref_licencia": "500/2021/00518",
+  "id_local": 280020015,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "22/03/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5c1ce"
+  },
+  "ref_licencia": "500/2020/04939",
+  "id_local": 270358005,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "16/10/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5bc7d"
+  },
+  "ref_licencia": "500/2016/13011",
+  "id_local": 270227291,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "16/02/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f41384"
+  },
+  "ref_licencia": "500/2018/07632",
+  "id_local": 280009631,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "04/05/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4462e"
+  },
+  "ref_licencia": "500/2016/12231",
+  "id_local": 280030393,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "16/03/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f47b54"
+  },
+  "ref_licencia": "500/2020/04573",
+  "id_local": 280048318,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "06/10/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5a9a9"
+  },
+  "ref_licencia": "500/2021/07159",
+  "id_local": 270266278,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "25/11/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f43ab4"
+  },
+  "ref_licencia": "500/2018/04747",
+  "id_local": 270552469,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/06/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f5243a"
+  },
+  "ref_licencia": "500/2019/07340",
+  "id_local": 10003654,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/08/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f38dcf"
+  },
+  "ref_licencia": "500/2017/11496",
+  "id_local": 270457627,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "12/01/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f57929"
+  },
+  "ref_licencia": "500/2021/00194",
+  "id_local": 270080421,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "12/02/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5cfe5"
+  },
+  "ref_licencia": "500/2018/07077",
+  "id_local": 270410719,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "11/02/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f521b5"
+  },
+  "ref_licencia": "500/2019/09415",
+  "id_local": 10002986,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "21/05/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f472a9"
+  },
+  "ref_licencia": "500/2015/08714",
+  "id_local": 280010177,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "06/10/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f533c3"
+  },
+  "ref_licencia": "500/2014/09527",
+  "id_local": 60001744,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "23/04/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f39f9a"
+  },
+  "ref_licencia": "500/2015/03593",
+  "id_local": 270509665,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "23/04/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4d3f4"
+  },
+  "ref_licencia": "500/2020/01805",
+  "id_local": 285029705,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "17/08/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f47e38"
+  },
+  "ref_licencia": "500/2017/12088",
+  "id_local": 280056603,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "18/05/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f39270"
+  },
+  "ref_licencia": "500/2018/00343",
+  "id_local": 270478797,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "18/04/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3e3f9"
+  },
+  "ref_licencia": "500/2015/05070",
+  "id_local": 270558284,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "29/03/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f42a2d"
+  },
+  "ref_licencia": "500/2018/03520",
+  "id_local": 280029552,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "12/06/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f50914"
+  },
+  "ref_licencia": "500/2017/00963",
+  "id_local": 280073823,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "09/07/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3fc1d"
+  },
+  "ref_licencia": "500/2017/13506",
+  "id_local": 270565030,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "05/02/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4b40d"
+  },
+  "ref_licencia": "500/2015/05304",
+  "id_local": 285000957,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "29/03/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3e226"
+  },
+  "ref_licencia": "500/2020/02832",
+  "id_local": 270553478,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "24/08/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f39de0"
+  },
+  "ref_licencia": "500/2019/10598",
+  "id_local": 270496002,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/04/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f55aa4"
+  },
+  "ref_licencia": "500/2016/11798",
+  "id_local": 90001593,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "28/01/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5b30c"
+  },
+  "ref_licencia": "500/2021/06660",
+  "id_local": 270286012,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "21/03/2023"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4581f"
+  },
+  "ref_licencia": "500/2014/07367",
+  "id_local": 280047061,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "24/02/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3d401"
+  },
+  "ref_licencia": "500/2014/09503",
+  "id_local": 270542799,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "10/10/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f463ea"
+  },
+  "ref_licencia": "500/2015/19000",
+  "id_local": 280042428,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "12/02/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3fcdd"
+  },
+  "ref_licencia": "500/2015/04202",
+  "id_local": 270522522,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "14/03/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f43669"
+  },
+  "ref_licencia": "500/2017/14274",
+  "id_local": 280030800,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "14/02/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3e214"
+  },
+  "ref_licencia": "500/2018/09146",
+  "id_local": 270490378,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "11/09/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f48a61"
+  },
+  "ref_licencia": "500/2018/08512",
+  "id_local": 280056492,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "29/04/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3b54c"
+  },
+  "ref_licencia": "500/2020/01062",
+  "id_local": 270367888,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "24/02/2023"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4f605"
+  },
+  "ref_licencia": "500/2017/13522",
+  "id_local": 280060228,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/02/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3924d"
+  },
+  "ref_licencia": "500/2019/07793",
+  "id_local": 270409756,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/08/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f40371"
+  },
+  "ref_licencia": "500/2021/00644",
+  "id_local": 270571798,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "22/02/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4a9d7"
+  },
+  "ref_licencia": "500/2018/06894",
+  "id_local": 280073272,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "09/09/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f520af"
+  },
+  "ref_licencia": "500/2014/07259",
+  "id_local": 10002544,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "26/04/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f46801"
+  },
+  "ref_licencia": "500/2014/02014",
+  "id_local": 280000422,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "04/03/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4a521"
+  },
+  "ref_licencia": "500/2017/13295",
+  "id_local": 280071665,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "30/01/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f38e0c"
+  },
+  "ref_licencia": "500/2019/05940",
+  "id_local": 270401354,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "03/09/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f38a63"
+  },
+  "ref_licencia": "500/2016/07065",
+  "id_local": 270434015,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/06/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f453b5"
+  },
+  "ref_licencia": "500/2018/09928",
+  "id_local": 270563154,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "29/04/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4f037"
+  },
+  "ref_licencia": "500/2016/09795",
+  "id_local": 280057465,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "08/05/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f4040a"
+  },
+  "ref_licencia": "500/2020/04142",
+  "id_local": 280003195,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "17/08/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f43df2"
+  },
+  "ref_licencia": "500/2018/04867",
+  "id_local": 280043337,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/06/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4ff0f"
+  },
+  "ref_licencia": "500/2017/01200",
+  "id_local": 280066596,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "29/03/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4dc02"
+  },
+  "ref_licencia": "500/2014/04752",
+  "id_local": 285040313,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "11/05/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4bbf4"
+  },
+  "ref_licencia": "500/2019/14154",
+  "id_local": 285017450,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "01/04/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4f8df"
+  },
+  "ref_licencia": "500/2019/02320",
+  "id_local": 280044381,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "09/07/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f40ea7"
+  },
+  "ref_licencia": "500/2020/02623",
+  "id_local": 280011874,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "25/06/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4d39a"
+  },
+  "ref_licencia": "500/2017/14357",
+  "id_local": 285029540,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "28/01/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f57097"
+  },
+  "ref_licencia": "500/2015/18452",
+  "id_local": 270025989,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "21/03/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4b77a"
+  },
+  "ref_licencia": "500/2020/07098",
+  "id_local": 285003529,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "29/01/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4b8d7"
+  },
+  "ref_licencia": "500/2015/13485",
+  "id_local": 285001770,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "20/09/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5a1cb"
+  },
+  "ref_licencia": "500/2018/05168",
+  "id_local": 270242955,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "27/06/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f53c17"
+  },
+  "ref_licencia": "500/2021/00796",
+  "id_local": 90001678,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "29/04/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4b1ac"
+  },
+  "ref_licencia": "500/2017/11430",
+  "id_local": 285002633,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "01/08/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5a033"
+  },
+  "ref_licencia": "500/2017/14435",
+  "id_local": 270116381,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "18/06/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f47ff5"
+  },
+  "ref_licencia": "500/2017/10162",
+  "id_local": 280063602,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "30/09/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f44fa5"
+  },
+  "ref_licencia": "500/2019/09797",
+  "id_local": 280044242,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "01/10/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5b5b8"
+  },
+  "ref_licencia": "500/2017/12551",
+  "id_local": 270316815,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "24/07/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4b069"
+  },
+  "ref_licencia": "500/2019/02083",
+  "id_local": 285002113,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/04/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4a287"
+  },
+  "ref_licencia": "500/2018/10937",
+  "id_local": 280071339,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "05/12/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4dfbf"
+  },
+  "ref_licencia": "500/2021/01683",
+  "id_local": 285042100,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "12/04/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4cce2"
+  },
+  "ref_licencia": "500/2015/04861",
+  "id_local": 285005107,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "25/02/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4a4f9"
+  },
+  "ref_licencia": "500/2018/00827",
+  "id_local": 285005018,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/12/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5d217"
+  },
+  "ref_licencia": "500/2020/04935",
+  "id_local": 270419801,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "01/09/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4c432"
+  },
+  "ref_licencia": "500/2017/04487",
+  "id_local": 285002178,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/03/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4283d"
+  },
+  "ref_licencia": "500/2018/10178",
+  "id_local": 280017238,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "01/04/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4db75"
+  },
+  "ref_licencia": "500/2018/05474",
+  "id_local": 285037470,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "20/03/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4fb44"
+  },
+  "ref_licencia": "500/2016/02962",
+  "id_local": 280064007,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "01/02/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4b006"
+  },
+  "ref_licencia": "500/2018/09674",
+  "id_local": 285007285,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "22/10/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f55227"
+  },
+  "ref_licencia": "500/2021/00745",
+  "id_local": 130001963,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "22/02/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3bb2e"
+  },
+  "ref_licencia": "500/2018/00804",
+  "id_local": 270519642,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/03/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f39f07"
+  },
+  "ref_licencia": "500/2019/12138",
+  "id_local": 270513874,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "08/05/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f58d36"
+  },
+  "ref_licencia": "500/2016/00036",
+  "id_local": 270084762,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "17/03/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4d219"
+  },
+  "ref_licencia": "500/2017/06631",
+  "id_local": 285032884,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "14/02/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f423a9"
+  },
+  "ref_licencia": "500/2014/11879",
+  "id_local": 280021544,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "07/04/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3f66e"
+  },
+  "ref_licencia": "500/2018/05473",
+  "id_local": 270566740,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "12/04/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f51bdc"
+  },
+  "ref_licencia": "500/2016/09629",
+  "id_local": 20001340,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "03/01/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3edc9"
+  },
+  "ref_licencia": "500/2017/07269",
+  "id_local": 270559817,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "09/01/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4c6da"
+  },
+  "ref_licencia": "500/2017/12211",
+  "id_local": 285002893,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "12/04/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4b308"
+  },
+  "ref_licencia": "500/2019/13921",
+  "id_local": 280022109,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "06/11/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3fb39"
+  },
+  "ref_licencia": "500/2020/00203",
+  "id_local": 270571148,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/03/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f56fb2"
+  },
+  "ref_licencia": "500/2018/05047",
+  "id_local": 270071318,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/10/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f512d3"
+  },
+  "ref_licencia": "500/2017/00158",
+  "id_local": 285025512,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "30/04/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5ab2e"
+  },
+  "ref_licencia": "500/2015/13447",
+  "id_local": 270199947,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "01/03/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4c5d5"
+  },
+  "ref_licencia": "500/2015/05453",
+  "id_local": 285003867,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "12/04/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4d1f3"
+  },
+  "ref_licencia": "500/2018/09796",
+  "id_local": 285032835,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "30/10/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f47d4f"
+  },
+  "ref_licencia": "500/2015/03966",
+  "id_local": 280056335,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/08/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f42ed2"
+  },
+  "ref_licencia": "500/2019/10042",
+  "id_local": 280030069,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "04/06/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3fb24"
+  },
+  "ref_licencia": "500/2015/05648",
+  "id_local": 270558402,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/06/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f39dec"
+  },
+  "ref_licencia": "500/2017/09010",
+  "id_local": 270512867,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "11/09/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4667a"
+  },
+  "ref_licencia": "500/2021/00323",
+  "id_local": 280050574,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "03/03/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5c1a4"
+  },
+  "ref_licencia": "500/2017/14834",
+  "id_local": 270357693,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/08/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3ea09"
+  },
+  "ref_licencia": "500/2019/13225",
+  "id_local": 270561742,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/03/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5a30a"
+  },
+  "ref_licencia": "500/2017/03207",
+  "id_local": 270121834,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "18/06/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f527f6"
+  },
+  "ref_licencia": "500/2018/04653",
+  "id_local": 20001065,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/06/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f41a98"
+  },
+  "ref_licencia": "500/2017/13237",
+  "id_local": 280020531,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "24/04/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3fd22"
+  },
+  "ref_licencia": "500/2016/06226",
+  "id_local": 280007334,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "25/04/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4553d"
+  },
+  "ref_licencia": "500/2016/06542",
+  "id_local": 280042614,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "18/04/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f5252c"
+  },
+  "ref_licencia": "500/2019/03665",
+  "id_local": 20001024,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "27/05/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4bbe0"
+  },
+  "ref_licencia": "500/2015/11991",
+  "id_local": 285004349,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "06/08/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f463db"
+  },
+  "ref_licencia": "500/2021/00493",
+  "id_local": 280048259,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "11/02/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f478ee"
+  },
+  "ref_licencia": "500/2016/05406",
+  "id_local": 280010798,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "15/02/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4c9db"
+  },
+  "ref_licencia": "500/2018/08733",
+  "id_local": 285016423,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "23/10/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4c5a7"
+  },
+  "ref_licencia": "500/2020/01735",
+  "id_local": 285002742,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "17/08/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f41d74"
+  },
+  "ref_licencia": "500/2013/06143",
+  "id_local": 280010980,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "24/10/2013"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4b6d7"
+  },
+  "ref_licencia": "500/2018/07337",
+  "id_local": 285001399,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "16/03/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4216c"
+  },
+  "ref_licencia": "500/2020/01853",
+  "id_local": 280010266,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "17/08/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f59e53"
+  },
+  "ref_licencia": "500/2015/17186",
+  "id_local": 270159336,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "14/03/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4354e"
+  },
+  "ref_licencia": "500/2015/02701",
+  "id_local": 280030635,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "22/03/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3c03b"
+  },
+  "ref_licencia": "500/2015/17538",
+  "id_local": 270531669,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "25/04/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4d43a"
+  },
+  "ref_licencia": "500/2018/03888",
+  "id_local": 285033725,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "08/03/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f41826"
+  },
+  "ref_licencia": "500/2014/08786",
+  "id_local": 280009059,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "20/09/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f56155"
+  },
+  "ref_licencia": "500/2014/04610",
+  "id_local": 270043337,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "12/09/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f59c82"
+  },
+  "ref_licencia": "500/2020/05713",
+  "id_local": 270160031,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "26/04/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4b1fe"
+  },
+  "ref_licencia": "500/2019/04916",
+  "id_local": 285002710,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "23/10/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3dc5c"
+  },
+  "ref_licencia": "500/2018/09621",
+  "id_local": 270543624,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "19/10/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f42b06"
+  },
+  "ref_licencia": "500/2015/11055",
+  "id_local": 280020000,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "07/08/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4ac36"
+  },
+  "ref_licencia": "500/2015/11034",
+  "id_local": 285001290,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "10/02/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3a002"
+  },
+  "ref_licencia": "500/2022/04311",
+  "id_local": 270487168,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "28/07/2022"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f53989"
+  },
+  "ref_licencia": "500/2015/10000",
+  "id_local": 40002083,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "21/12/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f59dda"
+  },
+  "ref_licencia": "500/2020/04901",
+  "id_local": 270158589,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "06/10/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f449f5"
+  },
+  "ref_licencia": "500/2017/05492",
+  "id_local": 270558411,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "20/12/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f41e64"
+  },
+  "ref_licencia": "500/2018/05031",
+  "id_local": 280011178,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/04/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4c046"
+  },
+  "ref_licencia": "500/2016/05775",
+  "id_local": 285001380,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "19/07/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5a58b"
+  },
+  "ref_licencia": "500/2015/11525",
+  "id_local": 270171069,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "21/03/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f487eb"
+  },
+  "ref_licencia": "500/2017/13704",
+  "id_local": 280011994,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/02/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f41018"
+  },
+  "ref_licencia": "500/2018/01311",
+  "id_local": 280008137,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "16/05/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f42b1e"
+  },
+  "ref_licencia": "500/2018/01663",
+  "id_local": 280029661,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "23/02/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4af2d"
+  },
+  "ref_licencia": "500/2019/13615",
+  "id_local": 285012698,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "16/02/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5c4c0"
+  },
+  "ref_licencia": "500/2014/10360",
+  "id_local": 270369895,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "19/05/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4a992"
+  },
+  "ref_licencia": "500/2017/00255",
+  "id_local": 280073219,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "25/01/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3dae9"
+  },
+  "ref_licencia": "500/2016/02638",
+  "id_local": 270483590,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "05/02/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4c038"
+  },
+  "ref_licencia": "500/2019/00189",
+  "id_local": 280032814,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/08/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f458d3"
+  },
+  "ref_licencia": "500/2020/03569",
+  "id_local": 280039422,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "29/06/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4ca56"
+  },
+  "ref_licencia": "500/2017/06052",
+  "id_local": 285003449,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "01/09/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3b4c9"
+  },
+  "ref_licencia": "500/2015/14319",
+  "id_local": 270517456,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "05/03/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4c003"
+  },
+  "ref_licencia": "500/2021/02783",
+  "id_local": 285012310,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "23/06/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3eb2b"
+  },
+  "ref_licencia": "500/2018/07745",
+  "id_local": 270545487,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "05/10/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f48aa7"
+  },
+  "ref_licencia": "500/2015/04276",
+  "id_local": 280065912,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/12/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f427bc"
+  },
+  "ref_licencia": "500/2014/07308",
+  "id_local": 280017280,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "07/06/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f57a6d"
+  },
+  "ref_licencia": "500/2021/06619",
+  "id_local": 270039268,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "18/10/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f47972"
+  },
+  "ref_licencia": "500/2020/01715",
+  "id_local": 280055514,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/04/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f5753c"
+  },
+  "ref_licencia": "500/2018/09160",
+  "id_local": 270044713,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "12/01/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f42df3"
+  },
+  "ref_licencia": "500/2019/11753",
+  "id_local": 280019626,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "18/12/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4a484"
+  },
+  "ref_licencia": "500/2015/01829",
+  "id_local": 280073627,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "20/02/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f442a6"
+  },
+  "ref_licencia": "500/2018/11072",
+  "id_local": 280035975,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "18/11/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f55cc8"
+  },
+  "ref_licencia": "500/2019/08502",
+  "id_local": 170001799,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "29/08/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4e74c"
+  },
+  "ref_licencia": "500/2020/00708",
+  "id_local": 285014087,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/03/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f5049d"
+  },
+  "ref_licencia": "500/2018/09478",
+  "id_local": 280071634,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "14/09/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4d3ae"
+  },
+  "ref_licencia": "500/2017/07531",
+  "id_local": 285025112,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "29/07/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f50cf1"
+  },
+  "ref_licencia": "500/2017/09881",
+  "id_local": 285002339,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "14/09/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5c64b"
+  },
+  "ref_licencia": "500/2016/14000",
+  "id_local": 270303447,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "16/08/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f486aa"
+  },
+  "ref_licencia": "500/2020/05866",
+  "id_local": 280065057,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "03/12/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f38d5d"
+  },
+  "ref_licencia": "500/2014/11743",
+  "id_local": 270379942,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "17/02/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5bf78"
+  },
+  "ref_licencia": "500/2016/14902",
+  "id_local": 270266399,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "16/03/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4fe6c"
+  },
+  "ref_licencia": "500/2015/00364",
+  "id_local": 285029132,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "23/02/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3fad4"
+  },
+  "ref_licencia": "500/2017/04655",
+  "id_local": 270520687,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "29/01/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f5101f"
+  },
+  "ref_licencia": "500/2013/06418",
+  "id_local": 285016399,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "25/11/2013"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f59cf4"
+  },
+  "ref_licencia": "500/2019/07246",
+  "id_local": 270161622,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "03/07/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f46b0d"
+  },
+  "ref_licencia": "500/2020/01622",
+  "id_local": 280052573,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "12/03/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4acd6"
+  },
+  "ref_licencia": "500/2018/10888",
+  "id_local": 285006260,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "05/12/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4f73d"
+  },
+  "ref_licencia": "500/2015/09285",
+  "id_local": 280060726,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "16/04/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f41a55"
+  },
+  "ref_licencia": "500/2015/11711",
+  "id_local": 280020429,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "14/05/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4da95"
+  },
+  "ref_licencia": "500/2016/08108",
+  "id_local": 285029540,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "11/04/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f464ba"
+  },
+  "ref_licencia": "500/2017/01383",
+  "id_local": 280048802,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "25/01/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f38c72"
+  },
+  "ref_licencia": "500/2017/09699",
+  "id_local": 270444389,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "04/02/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f56308"
+  },
+  "ref_licencia": "500/2019/09975",
+  "id_local": 270025792,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "12/02/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f57613"
+  },
+  "ref_licencia": "500/2017/14997",
+  "id_local": 270076333,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/02/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3ee9c"
+  },
+  "ref_licencia": "500/2022/03517",
+  "id_local": 270576148,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "20/05/2022"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f393ba"
+  },
+  "ref_licencia": "500/2014/04683",
+  "id_local": 270453353,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "16/04/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f403ea"
+  },
+  "ref_licencia": "500/2020/01976",
+  "id_local": 270572181,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "12/06/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f584d3"
+  },
+  "ref_licencia": "500/2018/09162",
+  "id_local": 270072818,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "04/12/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4f6ba"
+  },
+  "ref_licencia": "500/2018/14359",
+  "id_local": 285044616,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "28/05/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3f1f5"
+  },
+  "ref_licencia": "500/2017/12829",
+  "id_local": 270552532,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "21/05/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f54fc1"
+  },
+  "ref_licencia": "500/2017/06222",
+  "id_local": 70001719,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "14/02/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4ed3f"
+  },
+  "ref_licencia": "500/2020/02296",
+  "id_local": 285016584,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "12/01/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f466f2"
+  },
+  "ref_licencia": "500/2021/02848",
+  "id_local": 280048697,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "01/06/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f57b91"
+  },
+  "ref_licencia": "500/2018/11124",
+  "id_local": 270068536,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "05/12/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4aa1d"
+  },
+  "ref_licencia": "500/2021/06292",
+  "id_local": 285000906,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "19/10/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f531cb"
+  },
+  "ref_licencia": "500/2018/09761",
+  "id_local": 40002738,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "11/10/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3ae17"
+  },
+  "ref_licencia": "500/2019/07084",
+  "id_local": 270507667,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "17/07/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f51882"
+  },
+  "ref_licencia": "500/2014/08239",
+  "id_local": 285046860,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "22/04/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4be9b"
+  },
+  "ref_licencia": "500/2020/00176",
+  "id_local": 285002899,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "09/06/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3f82c"
+  },
+  "ref_licencia": "500/2019/05781",
+  "id_local": 280001971,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/08/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5ca26"
+  },
+  "ref_licencia": "500/2016/01948",
+  "id_local": 270316128,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "05/02/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f51499"
+  },
+  "ref_licencia": "500/2014/07996",
+  "id_local": 285031887,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "05/10/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3e7fa"
+  },
+  "ref_licencia": "500/2018/07358",
+  "id_local": 270563570,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "05/09/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f40c22"
+  },
+  "ref_licencia": "500/2017/09989",
+  "id_local": 280002838,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "23/02/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f46387"
+  },
+  "ref_licencia": "500/2020/08082",
+  "id_local": 280048658,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "12/01/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4a84a"
+  },
+  "ref_licencia": "500/2019/10744",
+  "id_local": 280021170,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "07/11/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4ee61"
+  },
+  "ref_licencia": "500/2016/15111",
+  "id_local": 280042525,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "04/05/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3c3da"
+  },
+  "ref_licencia": "500/2018/08968",
+  "id_local": 270536450,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "31/10/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3f4d9"
+  },
+  "ref_licencia": "500/2017/00799",
+  "id_local": 270563154,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "30/04/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4c1c2"
+  },
+  "ref_licencia": "500/2018/13503",
+  "id_local": 285003162,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/01/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f44d3c"
+  },
+  "ref_licencia": "500/2014/10974",
+  "id_local": 280041722,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "20/03/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f4189b"
+  },
+  "ref_licencia": "500/2016/12950",
+  "id_local": 280009541,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "16/02/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f53a9b"
+  },
+  "ref_licencia": "500/2015/09761",
+  "id_local": 90001312,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "28/01/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3988a"
+  },
+  "ref_licencia": "500/2017/08840",
+  "id_local": 270485192,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "23/02/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f5744d"
+  },
+  "ref_licencia": "500/2018/12555",
+  "id_local": 270022452,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/01/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f47664"
+  },
+  "ref_licencia": "500/2018/11134",
+  "id_local": 280060945,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "15/07/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f53b9f"
+  },
+  "ref_licencia": "500/2021/03155",
+  "id_local": 70001813,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "04/06/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3fa59"
+  },
+  "ref_licencia": "500/2019/10528",
+  "id_local": 270562103,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "12/01/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f404fe"
+  },
+  "ref_licencia": "500/2017/10824",
+  "id_local": 280008264,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "01/12/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f44474"
+  },
+  "ref_licencia": "500/2018/11549",
+  "id_local": 280036217,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "19/02/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f48eaa"
+  },
+  "ref_licencia": "500/2020/02217",
+  "id_local": 280057367,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "09/03/2023"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4ef2f"
+  },
+  "ref_licencia": "500/2021/01356",
+  "id_local": 285040302,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "29/04/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4b430"
+  },
+  "ref_licencia": "500/2015/11604",
+  "id_local": 285008819,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "28/06/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4218e"
+  },
+  "ref_licencia": "500/2020/01759",
+  "id_local": 280016582,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/06/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5c72f"
+  },
+  "ref_licencia": "500/2014/10754",
+  "id_local": 270379298,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "17/07/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3a151"
+  },
+  "ref_licencia": "500/2019/00861",
+  "id_local": 270480989,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "14/02/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f48034"
+  },
+  "ref_licencia": "500/2018/10877",
+  "id_local": 280011555,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "05/12/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f40293"
+  },
+  "ref_licencia": "500/2015/01962",
+  "id_local": 280002835,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "15/03/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f51476"
+  },
+  "ref_licencia": "500/2016/00117",
+  "id_local": 285031396,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "11/08/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f51d9a"
+  },
+  "ref_licencia": "500/2019/10963",
+  "id_local": 10002056,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "23/10/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f41824"
+  },
+  "ref_licencia": "500/2016/15155",
+  "id_local": 280009050,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/07/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f564c7"
+  },
+  "ref_licencia": "500/2015/09176",
+  "id_local": 180000735,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "27/04/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f59791"
+  },
+  "ref_licencia": "500/2019/00197",
+  "id_local": 270243027,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "23/09/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3eb3c"
+  },
+  "ref_licencia": "500/2019/00274",
+  "id_local": 270562605,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "25/02/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4cc6c"
+  },
+  "ref_licencia": "500/2017/03953",
+  "id_local": 285025558,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "25/01/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f45d08"
+  },
+  "ref_licencia": "500/2017/08738",
+  "id_local": 280036441,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "15/03/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3f99f"
+  },
+  "ref_licencia": "500/2014/04504",
+  "id_local": 280002199,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "11/09/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f47e3d"
+  },
+  "ref_licencia": "500/2015/06288",
+  "id_local": 280056778,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "29/11/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3d22f"
+  },
+  "ref_licencia": "500/2018/10117",
+  "id_local": 270530776,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "05/03/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f50ca0"
+  },
+  "ref_licencia": "500/2017/15121",
+  "id_local": 285001993,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/08/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f499a6"
+  },
+  "ref_licencia": "500/2015/14643",
+  "id_local": 280060739,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "24/02/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3b542"
+  },
+  "ref_licencia": "500/2018/08729",
+  "id_local": 270525537,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "09/09/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f45401"
+  },
+  "ref_licencia": "500/2019/10772",
+  "id_local": 280046477,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "06/11/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3da7f"
+  },
+  "ref_licencia": "500/2016/15787",
+  "id_local": 270478505,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/03/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5a7ff"
+  },
+  "ref_licencia": "500/2020/03456",
+  "id_local": 270135978,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "01/07/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4469a"
+  },
+  "ref_licencia": "500/2017/13527",
+  "id_local": 280042372,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/02/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4393a"
+  },
+  "ref_licencia": "500/2015/02647",
+  "id_local": 280023063,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "16/04/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3a682"
+  },
+  "ref_licencia": "500/2016/08856",
+  "id_local": 270515337,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "21/01/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f49f26"
+  },
+  "ref_licencia": "500/2020/04921",
+  "id_local": 280009536,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "01/10/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f52dbf"
+  },
+  "ref_licencia": "500/2013/01990",
+  "id_local": 40002278,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "20/04/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3fef9"
+  },
+  "ref_licencia": "500/2018/04720",
+  "id_local": 280004063,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "07/06/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f58c4b"
+  },
+  "ref_licencia": "500/2021/01487",
+  "id_local": 270135658,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "26/04/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4c5e8"
+  },
+  "ref_licencia": "500/2016/01142",
+  "id_local": 285014510,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "06/04/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3fa6f"
+  },
+  "ref_licencia": "500/2019/09957",
+  "id_local": 270569999,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "08/05/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f41359"
+  },
+  "ref_licencia": "500/2016/02191",
+  "id_local": 280008513,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/03/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f51182"
+  },
+  "ref_licencia": "500/2018/12887",
+  "id_local": 285021231,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "15/01/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3db9f"
+  },
+  "ref_licencia": "500/2018/00412",
+  "id_local": 270548308,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "26/11/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3d76f"
+  },
+  "ref_licencia": "500/2017/10031",
+  "id_local": 270535189,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "12/03/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f40ea9"
+  },
+  "ref_licencia": "500/2015/07796",
+  "id_local": 280008002,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "21/03/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f59374"
+  },
+  "ref_licencia": "500/2018/07596",
+  "id_local": 270162844,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "31/10/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3de1e"
+  },
+  "ref_licencia": "500/2019/02610",
+  "id_local": 270537211,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "16/03/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4f53a"
+  },
+  "ref_licencia": "500/2014/04275",
+  "id_local": 280059980,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "04/04/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4c083"
+  },
+  "ref_licencia": "500/2015/02842",
+  "id_local": 285020771,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "23/06/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f44172"
+  },
+  "ref_licencia": "500/2014/01001",
+  "id_local": 270554902,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "31/07/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f41785"
+  },
+  "ref_licencia": "500/2015/03038",
+  "id_local": 280010437,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "23/06/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f45945"
+  },
+  "ref_licencia": "500/2017/14493",
+  "id_local": 270565197,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/10/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3aa90"
+  },
+  "ref_licencia": "500/2019/07236",
+  "id_local": 270520784,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "28/06/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f59474"
+  },
+  "ref_licencia": "500/2021/02104",
+  "id_local": 270222473,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "23/04/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4430b"
+  },
+  "ref_licencia": "500/2017/13055",
+  "id_local": 280038572,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "06/08/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f42baa"
+  },
+  "ref_licencia": "500/2021/02577",
+  "id_local": 280029719,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "07/05/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f488d8"
+  },
+  "ref_licencia": "500/2014/05199",
+  "id_local": 280049869,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "12/09/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4ae64"
+  },
+  "ref_licencia": "500/2016/13013",
+  "id_local": 285012488,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "01/08/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f43f15"
+  },
+  "ref_licencia": "500/2019/07910",
+  "id_local": 280032578,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/08/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f46de4"
+  },
+  "ref_licencia": "500/2018/00714",
+  "id_local": 280047418,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "01/03/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5bf47"
+  },
+  "ref_licencia": "500/2015/16731",
+  "id_local": 270347919,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "16/08/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f38766"
+  },
+  "ref_licencia": "500/2014/09060",
+  "id_local": 270435318,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "10/06/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f4008b"
+  },
+  "ref_licencia": "500/2014/04080",
+  "id_local": 280000388,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "14/08/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5d0c6"
+  },
+  "ref_licencia": "500/2017/02664",
+  "id_local": 270413554,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "14/07/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f48901"
+  },
+  "ref_licencia": "500/2017/09658",
+  "id_local": 280058497,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "20/06/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4eb9e"
+  },
+  "ref_licencia": "500/2018/07145",
+  "id_local": 280042058,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "03/09/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f514d3"
+  },
+  "ref_licencia": "500/2018/01488",
+  "id_local": 285032757,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "20/03/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f40d9f"
+  },
+  "ref_licencia": "500/2018/09985",
+  "id_local": 280008985,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "30/10/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4f5ef"
+  },
+  "ref_licencia": "500/2017/13154",
+  "id_local": 285022393,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "30/01/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f579fe"
+  },
+  "ref_licencia": "500/2018/07819",
+  "id_local": 270065566,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "22/07/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3ee81"
+  },
+  "ref_licencia": "500/2018/00135",
+  "id_local": 270560122,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "18/05/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4eb14"
+  },
+  "ref_licencia": "500/2017/01774",
+  "id_local": 280054165,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "28/01/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3aedf"
+  },
+  "ref_licencia": "500/2018/13323",
+  "id_local": 270519396,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "01/08/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f39027"
+  },
+  "ref_licencia": "500/2016/02908",
+  "id_local": 270405350,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "20/02/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f53b98"
+  },
+  "ref_licencia": "500/2018/06941",
+  "id_local": 70001763,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "19/07/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f40719"
+  },
+  "ref_licencia": "500/2016/05831",
+  "id_local": 280003620,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "23/06/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3a160"
+  },
+  "ref_licencia": "500/2019/10365",
+  "id_local": 270515134,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/10/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f550be"
+  },
+  "ref_licencia": "500/2014/04450",
+  "id_local": 70001972,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "11/04/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5b780"
+  },
+  "ref_licencia": "500/2019/11535",
+  "id_local": 270239534,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/11/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f38b41"
+  },
+  "ref_licencia": "500/2020/03354",
+  "id_local": 270270816,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "04/02/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4571d"
+  },
+  "ref_licencia": "500/2019/06716",
+  "id_local": 280046031,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "20/05/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3ef85"
+  },
+  "ref_licencia": "500/2015/18757",
+  "id_local": 270551363,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "19/05/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3bb4b"
+  },
+  "ref_licencia": "500/2014/09603",
+  "id_local": 270530392,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "11/05/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5cfd3"
+  },
+  "ref_licencia": "500/2015/02616",
+  "id_local": 270414820,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "28/09/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4d0f7"
+  },
+  "ref_licencia": "500/2016/09752",
+  "id_local": 280037419,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "19/06/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4c6bf"
+  },
+  "ref_licencia": "500/2016/05777",
+  "id_local": 280027242,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "08/04/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f44e02"
+  },
+  "ref_licencia": "500/2015/13212",
+  "id_local": 280037865,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/04/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4cd4f"
+  },
+  "ref_licencia": "500/2017/00053",
+  "id_local": 285017015,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "18/10/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4c162"
+  },
+  "ref_licencia": "500/2015/03434",
+  "id_local": 285001630,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "07/03/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4e93f"
+  },
+  "ref_licencia": "500/2016/14882",
+  "id_local": 280053137,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "08/06/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4e7f1"
+  },
+  "ref_licencia": "500/2013/05380",
+  "id_local": 280052415,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "21/01/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f54a29"
+  },
+  "ref_licencia": "500/2017/10204",
+  "id_local": 150002386,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "06/05/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f534ba"
+  },
+  "ref_licencia": "500/2020/03513",
+  "id_local": 60002849,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "01/06/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5d232"
+  },
+  "ref_licencia": "500/2019/00291",
+  "id_local": 270360940,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "31/07/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f52960"
+  },
+  "ref_licencia": "500/2017/09679",
+  "id_local": 40001323,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "20/09/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4ba3f"
+  },
+  "ref_licencia": "500/2016/05969",
+  "id_local": 280031900,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3c551"
+  },
+  "ref_licencia": "500/2021/04395",
+  "id_local": 270524120,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "05/08/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5c362"
+  },
+  "ref_licencia": "500/2019/07483",
+  "id_local": 270364106,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "10/03/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4fd6b"
+  },
+  "ref_licencia": "500/2020/07261",
+  "id_local": 280065174,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "09/12/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f51d42"
+  },
+  "ref_licencia": "500/2018/10559",
+  "id_local": 20001978,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "26/11/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f451e9"
+  },
+  "ref_licencia": "500/2018/09837",
+  "id_local": 280031548,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "30/10/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3b594"
+  },
+  "ref_licencia": "500/2020/05392",
+  "id_local": 270525567,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "28/09/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f426cc"
+  },
+  "ref_licencia": "500/2019/02362",
+  "id_local": 280022267,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "12/01/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f55644"
+  },
+  "ref_licencia": "500/2017/12546",
+  "id_local": 110003850,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "05/03/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f58284"
+  },
+  "ref_licencia": "500/2015/07213",
+  "id_local": 270069115,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "12/04/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f46562"
+  },
+  "ref_licencia": "500/2018/09229",
+  "id_local": 280000298,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "27/02/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f47e12"
+  },
+  "ref_licencia": "500/2015/06904",
+  "id_local": 280063235,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "08/04/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3ef11"
+  },
+  "ref_licencia": "500/2015/04014",
+  "id_local": 270554637,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/10/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f53c07"
+  },
+  "ref_licencia": "500/2017/12877",
+  "id_local": 70001897,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "24/01/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f535de"
+  },
+  "ref_licencia": "500/2020/02209",
+  "id_local": 40003278,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "21/04/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4ec8d"
+  },
+  "ref_licencia": "500/2016/08864",
+  "id_local": 280054860,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "01/04/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f48e97"
+  },
+  "ref_licencia": "500/2021/02503",
+  "id_local": 280066597,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "26/04/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f44e65"
+  },
+  "ref_licencia": "500/2021/02303",
+  "id_local": 280037909,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "07/05/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5b603"
+  },
+  "ref_licencia": "500/2014/01456",
+  "id_local": 270314126,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "05/10/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f57665"
+  },
+  "ref_licencia": "500/2013/03973",
+  "id_local": 270060353,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "08/05/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3caf6"
+  },
+  "ref_licencia": "500/2015/06044",
+  "id_local": 270530961,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "06/07/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4441a"
+  },
+  "ref_licencia": "500/2015/04468",
+  "id_local": 280038685,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "07/04/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f536a0"
+  },
+  "ref_licencia": "500/2016/07624",
+  "id_local": 60002849,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "14/07/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3f9fd"
+  },
+  "ref_licencia": "500/2019/07268",
+  "id_local": 270569774,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "29/07/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4a42d"
+  },
+  "ref_licencia": "500/2017/02704",
+  "id_local": 280020470,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "11/08/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f475a7"
+  },
+  "ref_licencia": "500/2017/08879",
+  "id_local": 280060806,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "28/01/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4f13c"
+  },
+  "ref_licencia": "500/2018/05187",
+  "id_local": 285018189,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/06/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f51bac"
+  },
+  "ref_licencia": "500/2016/05251",
+  "id_local": 10001574,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "01/03/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4de2a"
+  },
+  "ref_licencia": "500/2019/03903",
+  "id_local": 285041227,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/08/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4ec0f"
+  },
+  "ref_licencia": "500/2021/00146",
+  "id_local": 280054608,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "22/03/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f436c7"
+  },
+  "ref_licencia": "500/2020/02941",
+  "id_local": 280030852,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "04/06/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f44001"
+  },
+  "ref_licencia": "500/2018/07049",
+  "id_local": 280029485,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "27/02/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4d79f"
+  },
+  "ref_licencia": "500/2021/06981",
+  "id_local": 285007204,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/11/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f472c2"
+  },
+  "ref_licencia": "500/2017/12543",
+  "id_local": 280060408,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "26/04/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4a4aa"
+  },
+  "ref_licencia": "500/2017/09367",
+  "id_local": 285010603,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "20/09/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4ca83"
+  },
+  "ref_licencia": "500/2020/02933",
+  "id_local": 285007392,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "18/01/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f40a7f"
+  },
+  "ref_licencia": "500/2020/02819",
+  "id_local": 280010372,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "22/03/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f50a01"
+  },
+  "ref_licencia": "500/2015/04147",
+  "id_local": 285009320,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "11/04/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f409cf"
+  },
+  "ref_licencia": "500/2020/01564",
+  "id_local": 280003166,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "16/03/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f48555"
+  },
+  "ref_licencia": "500/2018/13067",
+  "id_local": 280064723,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "15/09/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4671b"
+  },
+  "ref_licencia": "500/2021/06583",
+  "id_local": 270575040,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "08/10/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f48d78"
+  },
+  "ref_licencia": "500/2019/00906",
+  "id_local": 280050200,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "26/04/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4827f"
+  },
+  "ref_licencia": "500/2021/03065",
+  "id_local": 280064548,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "04/06/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f452a7"
+  },
+  "ref_licencia": "500/2016/12254",
+  "id_local": 270562278,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "14/07/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f474f9"
+  },
+  "ref_licencia": "500/2019/01595",
+  "id_local": 280053856,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "29/04/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f43aac"
+  },
+  "ref_licencia": "500/2019/11885",
+  "id_local": 280031838,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "01/04/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3a198"
+  },
+  "ref_licencia": "500/2016/12144",
+  "id_local": 270481237,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "09/08/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f566ff"
+  },
+  "ref_licencia": "500/2018/09748",
+  "id_local": 200001853,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "05/10/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f42015"
+  },
+  "ref_licencia": "500/2015/13356",
+  "id_local": 280010120,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "11/12/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3da49"
+  },
+  "ref_licencia": "500/2017/13321",
+  "id_local": 270547535,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "21/06/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f50cfe"
+  },
+  "ref_licencia": "500/2015/06160",
+  "id_local": 285002355,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "03/06/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f53ba4"
+  },
+  "ref_licencia": "500/2014/00980",
+  "id_local": 70002195,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "22/05/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5ad20"
+  },
+  "ref_licencia": "500/2015/07568",
+  "id_local": 270178417,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "21/08/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f59beb"
+  },
+  "ref_licencia": "500/2014/11854",
+  "id_local": 270176992,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "23/03/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f53dbb"
+  },
+  "ref_licencia": "500/2021/03453",
+  "id_local": 100000689,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "30/07/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f50752"
+  },
+  "ref_licencia": "500/2020/00548",
+  "id_local": 280072779,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "17/03/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4fab7"
+  },
+  "ref_licencia": "500/2018/01995",
+  "id_local": 285025013,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "05/12/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f51031"
+  },
+  "ref_licencia": "500/2019/11826",
+  "id_local": 285016464,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "12/01/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3cd44"
+  },
+  "ref_licencia": "500/2021/00787",
+  "id_local": 270528740,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "03/03/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4a019"
+  },
+  "ref_licencia": "500/2019/05807",
+  "id_local": 280009593,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "06/06/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5cc0c"
+  },
+  "ref_licencia": "500/2018/04544",
+  "id_local": 270324325,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "25/04/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4d986"
+  },
+  "ref_licencia": "500/2018/03088",
+  "id_local": 285032429,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "07/05/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4d7b8"
+  },
+  "ref_licencia": "500/2016/06392",
+  "id_local": 285010577,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "20/02/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f59545"
+  },
+  "ref_licencia": "500/2017/01692",
+  "id_local": 270239243,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "15/09/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4293a"
+  },
+  "ref_licencia": "500/2014/08497",
+  "id_local": 280018168,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/09/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f55615"
+  },
+  "ref_licencia": "500/2017/00607",
+  "id_local": 160001522,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "11/04/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3e612"
+  },
+  "ref_licencia": "500/2015/19468",
+  "id_local": 270555440,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "19/02/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f51737"
+  },
+  "ref_licencia": "500/2020/07304",
+  "id_local": 285042822,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "18/10/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3af63"
+  },
+  "ref_licencia": "500/2020/05710",
+  "id_local": 270521667,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "18/10/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3f696"
+  },
+  "ref_licencia": "500/2016/05114",
+  "id_local": 270559556,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "25/04/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3f00d"
+  },
+  "ref_licencia": "500/2017/05475",
+  "id_local": 270514724,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "05/03/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f53b9a"
+  },
+  "ref_licencia": "500/2014/09034",
+  "id_local": 70001775,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/08/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f45c2d"
+  },
+  "ref_licencia": "500/2018/11387",
+  "id_local": 270567473,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/08/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5a991"
+  },
+  "ref_licencia": "500/2020/06132",
+  "id_local": 270173770,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "16/03/2023"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4c4c0"
+  },
+  "ref_licencia": "500/2016/08812",
+  "id_local": 285002281,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "19/06/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4ed7b"
+  },
+  "ref_licencia": "500/2014/11442",
+  "id_local": 290000469,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "06/10/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f45700"
+  },
+  "ref_licencia": "500/2019/08020",
+  "id_local": 280032481,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "01/10/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f44218"
+  },
+  "ref_licencia": "500/2017/11341",
+  "id_local": 280030021,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "21/01/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f516fc"
+  },
+  "ref_licencia": "500/2021/02727",
+  "id_local": 285042378,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "01/06/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4cf8f"
+  },
+  "ref_licencia": "500/2018/02875",
+  "id_local": 285008991,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "30/04/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f38d10"
+  },
+  "ref_licencia": "500/2016/05785",
+  "id_local": 270457012,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "04/05/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4ce41"
+  },
+  "ref_licencia": "500/2018/06736",
+  "id_local": 285004106,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "30/10/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3de7a"
+  },
+  "ref_licencia": "500/2014/07185",
+  "id_local": 270552326,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "09/01/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f4174e"
+  },
+  "ref_licencia": "500/2016/05663",
+  "id_local": 270528968,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "10/06/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f57e6e"
+  },
+  "ref_licencia": "500/2018/13975",
+  "id_local": 270039211,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/06/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3c62e"
+  },
+  "ref_licencia": "500/2016/06344",
+  "id_local": 270524175,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "30/04/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f5192f"
+  },
+  "ref_licencia": "500/2015/05191",
+  "id_local": 290000681,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "23/10/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4d988"
+  },
+  "ref_licencia": "500/2015/11147",
+  "id_local": 285032446,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "05/10/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3a96e"
+  },
+  "ref_licencia": "500/2018/09958",
+  "id_local": 270519870,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "11/04/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f48e14"
+  },
+  "ref_licencia": "500/2014/02138",
+  "id_local": 280007789,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "28/02/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3d44f"
+  },
+  "ref_licencia": "500/2015/01907",
+  "id_local": 270534134,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "20/04/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f415e0"
+  },
+  "ref_licencia": "500/2019/12286",
+  "id_local": 280008919,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "21/11/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4f0fb"
+  },
+  "ref_licencia": "500/2017/03380",
+  "id_local": 285017878,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "12/01/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4627e"
+  },
+  "ref_licencia": "500/2017/13564",
+  "id_local": 280037593,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "31/01/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f49e45"
+  },
+  "ref_licencia": "500/2019/02023",
+  "id_local": 280009434,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "21/11/2023"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f57c66"
+  },
+  "ref_licencia": "500/2015/15130",
+  "id_local": 270069218,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "20/04/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f59803"
+  },
+  "ref_licencia": "500/2021/04550",
+  "id_local": 270226643,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "06/08/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4ca90"
+  },
+  "ref_licencia": "500/2017/11716",
+  "id_local": 285003484,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "10/06/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f527b4"
+  },
+  "ref_licencia": "500/2017/08010",
+  "id_local": 20000364,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "04/07/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5b5bf"
+  },
+  "ref_licencia": "500/2018/06578",
+  "id_local": 270331040,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "04/07/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4cea0"
+  },
+  "ref_licencia": "500/2018/10728",
+  "id_local": 285004168,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "21/03/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f50a68"
+  },
+  "ref_licencia": "500/2015/18092",
+  "id_local": 285010722,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "04/02/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f5022d"
+  },
+  "ref_licencia": "500/2021/02212",
+  "id_local": 280070247,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "23/04/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3da00"
+  },
+  "ref_licencia": "500/2014/09653",
+  "id_local": 270541738,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/01/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3ddd3"
+  },
+  "ref_licencia": "500/2020/07268",
+  "id_local": 270542677,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "01/09/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4ce22"
+  },
+  "ref_licencia": "500/2018/10909",
+  "id_local": 280037116,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "04/12/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f48a36"
+  },
+  "ref_licencia": "500/2015/13072",
+  "id_local": 280058749,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "04/06/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f4161e"
+  },
+  "ref_licencia": "500/2017/08999",
+  "id_local": 280007750,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "04/05/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4c0cb"
+  },
+  "ref_licencia": "500/2019/13354",
+  "id_local": 285021013,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "15/03/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4acfb"
+  },
+  "ref_licencia": "500/2018/09205",
+  "id_local": 285012266,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "29/03/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f47f55"
+  },
+  "ref_licencia": "500/2015/13828",
+  "id_local": 280003837,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "24/06/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3ec12"
+  },
+  "ref_licencia": "500/2015/12321",
+  "id_local": 270509788,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "25/05/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5abf6"
+  },
+  "ref_licencia": "500/2015/03429",
+  "id_local": 270202042,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "20/02/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f54fe6"
+  },
+  "ref_licencia": "500/2014/04793",
+  "id_local": 130002067,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "11/09/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f50ef7"
+  },
+  "ref_licencia": "500/2014/04435",
+  "id_local": 285003989,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "09/09/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3e89b"
+  },
+  "ref_licencia": "500/2014/02195",
+  "id_local": 270510954,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "03/01/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f420fa"
+  },
+  "ref_licencia": "500/2018/06722",
+  "id_local": 280011363,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "09/05/2023"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f5563b"
+  },
+  "ref_licencia": "500/2015/15055",
+  "id_local": 180000529,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/05/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4c720"
+  },
+  "ref_licencia": "500/2018/06961",
+  "id_local": 285002914,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "08/02/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f574b4"
+  },
+  "ref_licencia": "500/2017/13349",
+  "id_local": 270024530,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "05/02/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4f593"
+  },
+  "ref_licencia": "500/2019/10456",
+  "id_local": 280060120,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/10/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3d491"
+  },
+  "ref_licencia": "500/2021/00449",
+  "id_local": 270534224,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/08/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3dd67"
+  },
+  "ref_licencia": "500/2019/12568",
+  "id_local": 270543861,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "20/03/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f42e24"
+  },
+  "ref_licencia": "500/2012/04595",
+  "id_local": 280030026,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "05/10/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4fbde"
+  },
+  "ref_licencia": "500/2017/11331",
+  "id_local": 285025680,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "20/06/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f50b82"
+  },
+  "ref_licencia": "500/2017/13357",
+  "id_local": 285000987,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "23/05/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4c94d"
+  },
+  "ref_licencia": "500/2013/06565",
+  "id_local": 285023818,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "25/11/2013"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4ffdd"
+  },
+  "ref_licencia": "500/2019/13474",
+  "id_local": 285031165,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "28/09/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f51dd8"
+  },
+  "ref_licencia": "500/2017/05165",
+  "id_local": 10002090,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "09/01/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f48337"
+  },
+  "ref_licencia": "500/2015/11926",
+  "id_local": 280064302,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "14/06/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3a572"
+  },
+  "ref_licencia": "500/2013/00205",
+  "id_local": 270490997,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "05/10/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f57b59"
+  },
+  "ref_licencia": "500/2021/01833",
+  "id_local": 270085655,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "12/04/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4a08a"
+  },
+  "ref_licencia": "500/2015/03416",
+  "id_local": 280070857,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "29/03/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3eab7"
+  },
+  "ref_licencia": "500/2018/08046",
+  "id_local": 270545386,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/12/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3940d"
+  },
+  "ref_licencia": "500/2014/07610",
+  "id_local": 270419648,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/07/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f499f9"
+  },
+  "ref_licencia": "500/2017/14859",
+  "id_local": 280060753,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "14/03/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f51152"
+  },
+  "ref_licencia": "500/2016/06019",
+  "id_local": 285020566,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "15/03/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f515aa"
+  },
+  "ref_licencia": "500/2015/18983",
+  "id_local": 285035463,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "17/03/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4b14d"
+  },
+  "ref_licencia": "500/2014/02234",
+  "id_local": 285007901,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "24/02/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f44e18"
+  },
+  "ref_licencia": "500/2015/11828",
+  "id_local": 280031011,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "15/03/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5c41c"
+  },
+  "ref_licencia": "500/2015/18167",
+  "id_local": 270286012,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "21/06/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f52869"
+  },
+  "ref_licencia": "500/2015/10517",
+  "id_local": 40001256,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "20/03/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3aae8"
+  },
+  "ref_licencia": "500/2021/04572",
+  "id_local": 270518151,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "13/08/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5c3d0"
+  },
+  "ref_licencia": "500/2021/02319",
+  "id_local": 270365592,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "07/05/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4216e"
+  },
+  "ref_licencia": "500/2017/03986",
+  "id_local": 280010272,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "14/02/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f52ac8"
+  },
+  "ref_licencia": "500/2015/10966",
+  "id_local": 40001829,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "15/03/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f5362f"
+  },
+  "ref_licencia": "500/2016/05054",
+  "id_local": 40001430,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "14/07/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f51edb"
+  },
+  "ref_licencia": "500/2015/04471",
+  "id_local": 10002373,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "08/11/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3b323"
+  },
+  "ref_licencia": "500/2017/13960",
+  "id_local": 270522400,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "05/02/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3edd6"
+  },
+  "ref_licencia": "500/2019/08092",
+  "id_local": 270566997,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/08/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f44706"
+  },
+  "ref_licencia": "500/2015/06085",
+  "id_local": 280030443,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "20/09/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3d336"
+  },
+  "ref_licencia": "500/2018/00250",
+  "id_local": 270542514,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "07/03/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f4055b"
+  },
+  "ref_licencia": "500/2020/08076",
+  "id_local": 270573584,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "14/04/2023"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f493eb"
+  },
+  "ref_licencia": "500/2017/10367",
+  "id_local": 280051005,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "05/12/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f59812"
+  },
+  "ref_licencia": "500/2016/07222",
+  "id_local": 270170382,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "30/04/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4cafe"
+  },
+  "ref_licencia": "500/2015/19407",
+  "id_local": 280029612,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "02/08/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f408d4"
+  },
+  "ref_licencia": "500/2016/08540",
+  "id_local": 280002326,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 3,
+    "desc_tipo_situacion_licencia": "Denegada"
+  },
+  "Fecha_Dec_Lic": "07/11/2016"
+}]
