@@ -1,0 +1,8000 @@
+[{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4864a"
+  },
+  "ref_licencia": "111/2003/01477",
+  "id_local": 280055678,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "08/10/2004"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f46bd0"
+  },
+  "ref_licencia": "113/2004/06175",
+  "id_local": 280050417,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "28/06/2006"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3cfe9"
+  },
+  "ref_licencia": "109/2008/05493",
+  "id_local": 270540304,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "12/01/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f4094d"
+  },
+  "ref_licencia": "104/2007/03647",
+  "id_local": 280002425,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "21/10/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4cc05"
+  },
+  "ref_licencia": "220/2010/05606",
+  "id_local": 280029761,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f52347"
+  },
+  "ref_licencia": "500/2019/08491",
+  "id_local": 10002502,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "27/04/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f53688"
+  },
+  "ref_licencia": "104/2009/01287",
+  "id_local": 40003263,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "24/05/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f5607c"
+  },
+  "ref_licencia": "101/2003/02231",
+  "id_local": 270041457,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "02/06/2004"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f52226"
+  },
+  "ref_licencia": "103/2005/05745",
+  "id_local": 30000708,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "13/12/2005"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3adfe"
+  },
+  "ref_licencia": "500/2019/09237",
+  "id_local": 270519047,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "27/08/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f57cd5"
+  },
+  "ref_licencia": "107/2005/03338",
+  "id_local": 270115816,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "29/06/2006"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4dec4"
+  },
+  "ref_licencia": "108/2005/04031",
+  "id_local": 280048393,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "21/11/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3e52f"
+  },
+  "ref_licencia": "500/2011/06611",
+  "id_local": 270541083,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "17/08/2011"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f4028b"
+  },
+  "ref_licencia": "500/2019/10603",
+  "id_local": 270570509,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "28/10/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f40c91"
+  },
+  "ref_licencia": "500/2019/11543",
+  "id_local": 270526433,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "04/10/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f53eec"
+  },
+  "ref_licencia": "500/2012/05006",
+  "id_local": 80000730,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "02/11/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f38b33"
+  },
+  "ref_licencia": "500/2016/06724",
+  "id_local": 270444987,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "31/01/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4ad00"
+  },
+  "ref_licencia": "500/2021/08391",
+  "id_local": 285001419,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "17/12/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f44a05"
+  },
+  "ref_licencia": "106/2003/01130",
+  "id_local": 280030733,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "22/07/2003"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3a31d"
+  },
+  "ref_licencia": "500/2022/05945",
+  "id_local": 270483586,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "08/09/2023"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f55089"
+  },
+  "ref_licencia": "112/2005/00993",
+  "id_local": 170001371,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "26/08/2005"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3ba20"
+  },
+  "ref_licencia": "500/2017/03683",
+  "id_local": 270526668,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "06/04/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3878d"
+  },
+  "ref_licencia": "500/2017/05769",
+  "id_local": 270394817,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "07/08/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f543b0"
+  },
+  "ref_licencia": "111/2008/09478",
+  "id_local": 110002425,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "03/12/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4a47a"
+  },
+  "ref_licencia": "112/2001/01185",
+  "id_local": 280063417,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "24/04/2001"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5b911"
+  },
+  "ref_licencia": "108/1995/01236",
+  "id_local": 270243003,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f42e18"
+  },
+  "ref_licencia": "500/2013/00151",
+  "id_local": 280018296,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "28/01/2013"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f482dc"
+  },
+  "ref_licencia": "115/2009/06343",
+  "id_local": 280064228,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "14/04/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f45324"
+  },
+  "ref_licencia": "106/1999/06444",
+  "id_local": 280031823,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "05/09/2000"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f474c5"
+  },
+  "ref_licencia": "120/2008/04021",
+  "id_local": 280060650,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "04/05/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4a5c4"
+  },
+  "ref_licencia": "500/2012/03461",
+  "id_local": 280074258,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "18/07/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5d2d1"
+  },
+  "ref_licencia": "500/2019/02206",
+  "id_local": 270431207,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "26/04/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f45063"
+  },
+  "ref_licencia": "500/2016/05096",
+  "id_local": 270561213,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "17/02/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5b4d2"
+  },
+  "ref_licencia": "500/2016/01591",
+  "id_local": 270217355,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "13/03/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f53eed"
+  },
+  "ref_licencia": "108/2003/04147",
+  "id_local": 80000767,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "29/09/2011"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f52d02"
+  },
+  "ref_licencia": "105/2007/01153",
+  "id_local": 50001263,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3dfa6"
+  },
+  "ref_licencia": "115/2004/06359",
+  "id_local": 270488267,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "10/02/2005"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f52ae7"
+  },
+  "ref_licencia": "500/2016/03475",
+  "id_local": 40001884,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/03/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4fe9a"
+  },
+  "ref_licencia": "500/2012/02085",
+  "id_local": 285029833,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "30/04/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5ce61"
+  },
+  "ref_licencia": "500/2018/02846",
+  "id_local": 270406590,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "20/02/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4f469"
+  },
+  "ref_licencia": "113/2017/00013",
+  "id_local": 285021298,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "10/07/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f589f7"
+  },
+  "ref_licencia": "500/2017/02817",
+  "id_local": 270065164,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "23/11/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3b255"
+  },
+  "ref_licencia": "112/2007/02458",
+  "id_local": 270522193,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "25/07/2007"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f58d43"
+  },
+  "ref_licencia": "500/2016/12890",
+  "id_local": 270208539,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "07/07/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3d7b7"
+  },
+  "ref_licencia": "111/2008/04297",
+  "id_local": 270532153,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "24/11/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f58439"
+  },
+  "ref_licencia": "500/2017/10580",
+  "id_local": 270102366,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "25/08/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4be10"
+  },
+  "ref_licencia": "500/2017/01157",
+  "id_local": 285002825,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "02/02/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4928b"
+  },
+  "ref_licencia": "500/2020/03420",
+  "id_local": 280070502,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "30/06/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f386f3"
+  },
+  "ref_licencia": "500/2020/02780",
+  "id_local": 270367258,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "12/04/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f47b14"
+  },
+  "ref_licencia": "500/2011/04564",
+  "id_local": 280062659,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "15/03/2011"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f51ea1"
+  },
+  "ref_licencia": "101/2004/02963",
+  "id_local": 10002288,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "22/01/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f48189"
+  },
+  "ref_licencia": "111/2009/00518",
+  "id_local": 280054981,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "28/01/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f423ac"
+  },
+  "ref_licencia": "105/2010/00956",
+  "id_local": 280021555,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "09/03/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f472be"
+  },
+  "ref_licencia": "111/2008/07603",
+  "id_local": 280053577,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "13/10/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3941b"
+  },
+  "ref_licencia": "105/1989/00862",
+  "id_local": 270480229,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f39795"
+  },
+  "ref_licencia": "108/2006/06317",
+  "id_local": 270443633,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "08/02/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5c290"
+  },
+  "ref_licencia": "108/2003/03685",
+  "id_local": 270361355,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "03/10/2003"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f40848"
+  },
+  "ref_licencia": "500/2022/05021",
+  "id_local": 280009708,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "04/07/2022"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f46671"
+  },
+  "ref_licencia": "113/2006/02721",
+  "id_local": 280049529,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "25/05/2006"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f43788"
+  },
+  "ref_licencia": "500/2012/03459",
+  "id_local": 280038195,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "18/07/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f424c0"
+  },
+  "ref_licencia": "105/2003/08773",
+  "id_local": 280021642,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "08/06/2005"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f58d06"
+  },
+  "ref_licencia": "109/2009/01163",
+  "id_local": 270138051,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "06/05/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f42307"
+  },
+  "ref_licencia": "500/2017/02456",
+  "id_local": 280011718,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "06/06/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4dfb8"
+  },
+  "ref_licencia": "500/2013/07628",
+  "id_local": 280048590,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "19/11/2013"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f55480"
+  },
+  "ref_licencia": "500/2016/14812",
+  "id_local": 160001132,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "21/10/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f584fe"
+  },
+  "ref_licencia": "108/2006/09902",
+  "id_local": 270128744,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "11/02/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f46363"
+  },
+  "ref_licencia": "108/2004/02720",
+  "id_local": 280048231,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "26/07/2004"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f44a80"
+  },
+  "ref_licencia": "106/2008/02010",
+  "id_local": 280030484,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "07/04/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3e83d"
+  },
+  "ref_licencia": "500/2017/11381",
+  "id_local": 270563588,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "20/05/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4e14f"
+  },
+  "ref_licencia": "500/2014/04217",
+  "id_local": 285045102,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "03/04/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4fc03"
+  },
+  "ref_licencia": "500/2017/05577",
+  "id_local": 285025933,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "31/05/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3bd70"
+  },
+  "ref_licencia": "102/2006/02391",
+  "id_local": 270531014,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "26/05/2006"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5c5bf"
+  },
+  "ref_licencia": "111/2000/06809",
+  "id_local": 270232694,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "08/03/2001"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5a840"
+  },
+  "ref_licencia": "109/2006/03027",
+  "id_local": 270136491,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "30/09/2011"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f443bb"
+  },
+  "ref_licencia": "500/2011/07034",
+  "id_local": 280036139,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "21/09/2011"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f54a6f"
+  },
+  "ref_licencia": "110/2008/05169",
+  "id_local": 100001526,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "21/04/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4cc77"
+  },
+  "ref_licencia": "500/2021/01480",
+  "id_local": 285008132,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "05/04/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5c801"
+  },
+  "ref_licencia": "113/2009/04953",
+  "id_local": 270309492,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "03/09/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4d2d2"
+  },
+  "ref_licencia": "500/2012/04843",
+  "id_local": 285033091,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "31/10/2013"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f50d89"
+  },
+  "ref_licencia": "500/2017/01276",
+  "id_local": 285013104,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "07/03/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f50d68"
+  },
+  "ref_licencia": "500/2020/06562",
+  "id_local": 285002811,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "06/11/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3c911"
+  },
+  "ref_licencia": "500/2014/01399",
+  "id_local": 270538089,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "06/08/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f45fce"
+  },
+  "ref_licencia": "107/2004/07434",
+  "id_local": 280035897,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "20/10/2005"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f51c77"
+  },
+  "ref_licencia": "500/2022/02566",
+  "id_local": 10001569,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "26/05/2022"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f43b47"
+  },
+  "ref_licencia": "107/1999/04786",
+  "id_local": 280037656,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "04/12/2000"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4d639"
+  },
+  "ref_licencia": "500/2015/03262",
+  "id_local": 285035342,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "19/11/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f5019e"
+  },
+  "ref_licencia": "500/2016/10655",
+  "id_local": 285032779,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "02/03/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f58585"
+  },
+  "ref_licencia": "500/2011/05425",
+  "id_local": 270105613,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "20/05/2011"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4f25d"
+  },
+  "ref_licencia": "500/2012/03029",
+  "id_local": 280058470,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "26/06/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5ab0e"
+  },
+  "ref_licencia": "110/2001/00032",
+  "id_local": 270139402,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "12/11/2001"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f5399b"
+  },
+  "ref_licencia": "107/2003/02826",
+  "id_local": 70001686,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "03/06/2005"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f5039a"
+  },
+  "ref_licencia": "500/2013/06320",
+  "id_local": 285034101,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "07/10/2013"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f51709"
+  },
+  "ref_licencia": "500/2021/01324",
+  "id_local": 285042426,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "03/03/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f475db"
+  },
+  "ref_licencia": "120/2003/03660",
+  "id_local": 280060830,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "23/05/2005"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f398c1"
+  },
+  "ref_licencia": "103/2000/00361",
+  "id_local": 270445749,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3e096"
+  },
+  "ref_licencia": "500/2018/10149",
+  "id_local": 270552883,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "10/10/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3a26b"
+  },
+  "ref_licencia": "108/2002/02869",
+  "id_local": 270508889,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5c00d"
+  },
+  "ref_licencia": "108/1999/01751",
+  "id_local": 270268960,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f533c7"
+  },
+  "ref_licencia": "103/2007/02850",
+  "id_local": 30000348,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "07/06/2007"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4f8c0"
+  },
+  "ref_licencia": "112/2008/05786",
+  "id_local": 280062163,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "22/10/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5bcfc"
+  },
+  "ref_licencia": "108/1995/02489",
+  "id_local": 270312187,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f39e75"
+  },
+  "ref_licencia": "101/2003/04146",
+  "id_local": 270513588,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/12/2003"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4ddef"
+  },
+  "ref_licencia": "500/2017/11516",
+  "id_local": 280048166,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "20/12/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4309a"
+  },
+  "ref_licencia": "101/2006/07645",
+  "id_local": 280018693,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "20/10/2006"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3c4d1"
+  },
+  "ref_licencia": "500/2018/04707",
+  "id_local": 270531766,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "27/06/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f49fe9"
+  },
+  "ref_licencia": "103/2004/03928",
+  "id_local": 280019895,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "26/06/2006"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4f6c5"
+  },
+  "ref_licencia": "120/2000/03524",
+  "id_local": 280060500,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "16/07/2001"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f53048"
+  },
+  "ref_licencia": "106/2002/05951",
+  "id_local": 60000898,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "31/08/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f575d8"
+  },
+  "ref_licencia": "121/2008/00276",
+  "id_local": 210000146,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "26/02/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3ae19"
+  },
+  "ref_licencia": "500/2016/10343",
+  "id_local": 270331660,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "22/07/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3c467"
+  },
+  "ref_licencia": "106/2007/06697",
+  "id_local": 270533375,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "21/12/2007"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f55a60"
+  },
+  "ref_licencia": "500/2013/02975",
+  "id_local": 160002171,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "06/02/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3d3ad"
+  },
+  "ref_licencia": "500/2011/01466",
+  "id_local": 270533817,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "08/02/2011"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f39d14"
+  },
+  "ref_licencia": "105/1998/04049",
+  "id_local": 270450869,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "14/03/2003"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4f554"
+  },
+  "ref_licencia": "500/2014/00760",
+  "id_local": 285021874,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "03/02/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f576eb"
+  },
+  "ref_licencia": "110/2001/04643",
+  "id_local": 270033149,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "25/06/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f5575d"
+  },
+  "ref_licencia": "500/2017/14101",
+  "id_local": 80001248,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "04/12/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f53b7f"
+  },
+  "ref_licencia": "105/2004/07839",
+  "id_local": 50000894,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "26/11/2007"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f47807"
+  },
+  "ref_licencia": "111/2000/02236",
+  "id_local": 280053582,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "28/08/2000"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5b823"
+  },
+  "ref_licencia": "119/2004/04286",
+  "id_local": 270320691,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "18/02/2005"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f56838"
+  },
+  "ref_licencia": "102/2005/07228",
+  "id_local": 270056973,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "09/01/2006"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f412bd"
+  },
+  "ref_licencia": "101/2008/07026",
+  "id_local": 280007274,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "03/12/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f42607"
+  },
+  "ref_licencia": "102/2001/08085",
+  "id_local": 280016760,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "17/01/2003"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4fb50"
+  },
+  "ref_licencia": "109/2000/04699",
+  "id_local": 280044572,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "27/03/2001"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f54304"
+  },
+  "ref_licencia": "500/2022/03999",
+  "id_local": 50002099,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "30/05/2022"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3ea8b"
+  },
+  "ref_licencia": "500/2013/04485",
+  "id_local": 270553030,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "16/07/2013"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3990a"
+  },
+  "ref_licencia": "500/2012/02717",
+  "id_local": 270486273,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "11/06/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f580cc"
+  },
+  "ref_licencia": "103/2007/02174",
+  "id_local": 270059839,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "02/07/2007"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f41a13"
+  },
+  "ref_licencia": "500/2019/06000",
+  "id_local": 280009284,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "20/12/2022"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f447b8"
+  },
+  "ref_licencia": "500/2010/00125",
+  "id_local": 270541929,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "17/06/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f5648f"
+  },
+  "ref_licencia": "500/2016/11974",
+  "id_local": 200001117,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "28/02/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f41457"
+  },
+  "ref_licencia": "500/2015/06740",
+  "id_local": 280009720,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "29/04/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f54f5d"
+  },
+  "ref_licencia": "500/2012/02797",
+  "id_local": 70001447,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "14/06/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4647c"
+  },
+  "ref_licencia": "500/2012/03386",
+  "id_local": 280038002,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "07/08/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f405dd"
+  },
+  "ref_licencia": "106/2005/05248",
+  "id_local": 270524707,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "12/04/2007"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3d0db"
+  },
+  "ref_licencia": "500/2011/04559",
+  "id_local": 270536173,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "15/03/2011"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f53896"
+  },
+  "ref_licencia": "500/2014/00111",
+  "id_local": 70000892,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "27/02/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4461e"
+  },
+  "ref_licencia": "110/2004/02796",
+  "id_local": 280042331,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "20/06/2005"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4e77e"
+  },
+  "ref_licencia": "113/2002/04523",
+  "id_local": 280051260,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "08/06/2006"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f5259f"
+  },
+  "ref_licencia": "102/2002/02246",
+  "id_local": 20000553,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "16/03/2004"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f41c75"
+  },
+  "ref_licencia": "102/2000/07443",
+  "id_local": 280018542,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "10/07/2002"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f56138"
+  },
+  "ref_licencia": "500/2019/11037",
+  "id_local": 270020095,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "26/04/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3e009"
+  },
+  "ref_licencia": "500/2012/01507",
+  "id_local": 270547539,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "24/04/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f47529"
+  },
+  "ref_licencia": "120/2006/02717",
+  "id_local": 280060767,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "05/01/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4e91f"
+  },
+  "ref_licencia": "500/2014/01000",
+  "id_local": 285046459,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "08/04/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3f4cc"
+  },
+  "ref_licencia": "500/2021/05786",
+  "id_local": 270563132,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "19/08/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f42c45"
+  },
+  "ref_licencia": "220/2011/02105",
+  "id_local": 270535496,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f56b94"
+  },
+  "ref_licencia": "121/2007/00764",
+  "id_local": 210000893,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4c4b5"
+  },
+  "ref_licencia": "500/2012/05569",
+  "id_local": 285013900,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/07/2013"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f46f12"
+  },
+  "ref_licencia": "108/2006/00694",
+  "id_local": 280047511,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "22/04/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4a989"
+  },
+  "ref_licencia": "105/2007/03257",
+  "id_local": 280021357,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "25/09/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f544ad"
+  },
+  "ref_licencia": "500/2017/03878",
+  "id_local": 90000904,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "13/02/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4c6a6"
+  },
+  "ref_licencia": "105/2003/12941",
+  "id_local": 280027227,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4271d"
+  },
+  "ref_licencia": "105/2000/01699",
+  "id_local": 280021831,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "02/09/2002"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f472c5"
+  },
+  "ref_licencia": "120/2004/04724",
+  "id_local": 280060421,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "22/05/2007"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4c9fa"
+  },
+  "ref_licencia": "500/2012/04961",
+  "id_local": 285003316,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "17/07/2013"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3e215"
+  },
+  "ref_licencia": "111/1996/02518",
+  "id_local": 270490433,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "02/12/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f528da"
+  },
+  "ref_licencia": "500/2013/04447",
+  "id_local": 40001131,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "15/07/2013"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3955b"
+  },
+  "ref_licencia": "220/2011/01581",
+  "id_local": 270472141,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f53d2d"
+  },
+  "ref_licencia": "107/2008/04924",
+  "id_local": 70002156,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/10/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f48437"
+  },
+  "ref_licencia": "115/2006/01975",
+  "id_local": 280064448,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "05/06/2006"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f580da"
+  },
+  "ref_licencia": "109/2004/03763",
+  "id_local": 270136930,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "16/11/2004"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3e8f0"
+  },
+  "ref_licencia": "500/2014/01376",
+  "id_local": 270555003,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "21/02/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3bf14"
+  },
+  "ref_licencia": "714/2002/02526",
+  "id_local": 270528029,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f42aaa"
+  },
+  "ref_licencia": "102/2001/07815",
+  "id_local": 280018315,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "04/07/2003"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3f294"
+  },
+  "ref_licencia": "102/2004/01961",
+  "id_local": 270515697,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "22/10/2004"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f505df"
+  },
+  "ref_licencia": "500/2019/06151",
+  "id_local": 285005690,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "11/06/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f506cc"
+  },
+  "ref_licencia": "500/2013/05493",
+  "id_local": 285006331,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "02/09/2013"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f52df7"
+  },
+  "ref_licencia": "105/2007/04077",
+  "id_local": 50001771,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "11/06/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f57509"
+  },
+  "ref_licencia": "104/1999/03692",
+  "id_local": 270075846,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "12/03/2007"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4236b"
+  },
+  "ref_licencia": "500/2015/16281",
+  "id_local": 280011656,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "16/02/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5b145"
+  },
+  "ref_licencia": "113/2002/05164",
+  "id_local": 270206158,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f41f1f"
+  },
+  "ref_licencia": "500/2010/01683",
+  "id_local": 270530334,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/12/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3a938"
+  },
+  "ref_licencia": "500/2022/00023",
+  "id_local": 270492629,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "14/01/2022"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f504b3"
+  },
+  "ref_licencia": "108/2005/09694",
+  "id_local": 280047347,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "16/06/2006"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f51f3f"
+  },
+  "ref_licencia": "500/2015/08260",
+  "id_local": 10002427,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "20/07/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f545f7"
+  },
+  "ref_licencia": "105/2004/12427",
+  "id_local": 50000210,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "05/09/2007"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f44c73"
+  },
+  "ref_licencia": "110/2004/08223",
+  "id_local": 280043543,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "30/11/2005"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4adcb"
+  },
+  "ref_licencia": "105/2003/09765",
+  "id_local": 280021638,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "29/12/2003"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3ee3e"
+  },
+  "ref_licencia": "500/2014/10746",
+  "id_local": 270556718,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "20/03/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f403ad"
+  },
+  "ref_licencia": "500/2021/02808",
+  "id_local": 270571924,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "02/06/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f46d72"
+  },
+  "ref_licencia": "108/2006/08763",
+  "id_local": 280046055,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "20/09/2007"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4ba5d"
+  },
+  "ref_licencia": "500/2019/00820",
+  "id_local": 285000311,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "19/09/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f41955"
+  },
+  "ref_licencia": "101/2005/16219",
+  "id_local": 280010583,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "11/09/2006"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f5380f"
+  },
+  "ref_licencia": "107/2005/02422",
+  "id_local": 70000238,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "06/03/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f58a93"
+  },
+  "ref_licencia": "500/2022/07064",
+  "id_local": 270135210,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "03/10/2022"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f5218e"
+  },
+  "ref_licencia": "103/2007/02306",
+  "id_local": 30001078,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "10/10/2007"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f53bd3"
+  },
+  "ref_licencia": "110/2004/00219",
+  "id_local": 100000946,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "09/03/2006"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4fc1e"
+  },
+  "ref_licencia": "500/2015/00881",
+  "id_local": 280064365,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "19/01/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f56575"
+  },
+  "ref_licencia": "500/2012/02294",
+  "id_local": 170001916,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "14/05/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5c191"
+  },
+  "ref_licencia": "500/2016/02566",
+  "id_local": 270357174,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "17/03/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f44eb9"
+  },
+  "ref_licencia": "110/2007/00104",
+  "id_local": 280041892,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "08/01/2007"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4782c"
+  },
+  "ref_licencia": "500/2017/01322",
+  "id_local": 280061852,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "05/12/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3f5f1"
+  },
+  "ref_licencia": "104/2001/00456",
+  "id_local": 280001748,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "11/07/2001"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f484fd"
+  },
+  "ref_licencia": "115/2002/07815",
+  "id_local": 280064597,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "18/06/2004"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5ad60"
+  },
+  "ref_licencia": "500/2013/01002",
+  "id_local": 270142436,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "20/02/2013"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3ebd6"
+  },
+  "ref_licencia": "500/2013/05770",
+  "id_local": 270553736,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "16/09/2013"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f41805"
+  },
+  "ref_licencia": "102/2008/02865",
+  "id_local": 280017162,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "24/04/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f59683"
+  },
+  "ref_licencia": "111/2005/02385",
+  "id_local": 270152521,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "17/10/2005"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f519c9"
+  },
+  "ref_licencia": "500/2018/14034",
+  "id_local": 10000775,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "15/01/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3921d"
+  },
+  "ref_licencia": "103/2006/02582",
+  "id_local": 270298483,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "08/06/2006"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4ccf6"
+  },
+  "ref_licencia": "500/2013/00199",
+  "id_local": 285016772,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "11/01/2013"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4cae8"
+  },
+  "ref_licencia": "500/2022/04493",
+  "id_local": 285024859,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "22/09/2022"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4f8db"
+  },
+  "ref_licencia": "112/2007/07465",
+  "id_local": 280062297,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "18/04/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f5300f"
+  },
+  "ref_licencia": "105/2006/04668",
+  "id_local": 50002156,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3b909"
+  },
+  "ref_licencia": "107/2007/00252",
+  "id_local": 270522129,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "15/04/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f527fc"
+  },
+  "ref_licencia": "102/1995/01920",
+  "id_local": 20000462,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5d095"
+  },
+  "ref_licencia": "107/2005/03288",
+  "id_local": 270356576,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "28/05/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f495e8"
+  },
+  "ref_licencia": "102/2001/01171",
+  "id_local": 280017661,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "19/11/2002"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5bd75"
+  },
+  "ref_licencia": "500/2022/07276",
+  "id_local": 270327406,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "07/10/2022"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f38ccd"
+  },
+  "ref_licencia": "500/2018/07761",
+  "id_local": 270445382,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "13/04/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f45780"
+  },
+  "ref_licencia": "108/2010/03913",
+  "id_local": 280046080,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "07/02/2011"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f5257a"
+  },
+  "ref_licencia": "500/2014/00492",
+  "id_local": 20000432,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/09/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3c5c1"
+  },
+  "ref_licencia": "105/2010/01866",
+  "id_local": 270527147,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4ae1f"
+  },
+  "ref_licencia": "119/2008/04454",
+  "id_local": 280065010,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "25/03/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f45483"
+  },
+  "ref_licencia": "500/2016/00238",
+  "id_local": 280031731,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "23/12/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4dd15"
+  },
+  "ref_licencia": "108/2007/06544",
+  "id_local": 280048077,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "26/10/2007"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4d638"
+  },
+  "ref_licencia": "500/2018/06057",
+  "id_local": 285026946,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "28/05/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3f074"
+  },
+  "ref_licencia": "500/2019/13416",
+  "id_local": 270554902,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "25/02/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3be08"
+  },
+  "ref_licencia": "500/2011/08398",
+  "id_local": 270522773,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "28/12/2011"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f471ee"
+  },
+  "ref_licencia": "120/2005/03157",
+  "id_local": 280060301,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "03/06/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f55f3f"
+  },
+  "ref_licencia": "112/2001/05849",
+  "id_local": 170001333,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "02/09/2002"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3a087"
+  },
+  "ref_licencia": "101/2005/17618",
+  "id_local": 270514791,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "26/01/2007"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f53c58"
+  },
+  "ref_licencia": "110/2008/04036",
+  "id_local": 100001127,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "29/09/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3fe4e"
+  },
+  "ref_licencia": "500/2017/10851",
+  "id_local": 270563584,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "27/08/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f5452b"
+  },
+  "ref_licencia": "109/2005/07219",
+  "id_local": 90001076,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "07/07/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f40d4f"
+  },
+  "ref_licencia": "101/2007/11004",
+  "id_local": 280007411,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "14/10/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f42f45"
+  },
+  "ref_licencia": "103/2008/04103",
+  "id_local": 280020565,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "08/07/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4d7b2"
+  },
+  "ref_licencia": "500/2021/07798",
+  "id_local": 285010530,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "22/11/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3d5c1"
+  },
+  "ref_licencia": "115/2001/04132",
+  "id_local": 270455285,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f54e18"
+  },
+  "ref_licencia": "113/2004/06711",
+  "id_local": 120000517,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "04/02/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3cae7"
+  },
+  "ref_licencia": "101/1998/02430",
+  "id_local": 270440181,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "08/11/2001"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f47501"
+  },
+  "ref_licencia": "500/2012/01688",
+  "id_local": 280010456,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "13/12/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f547c5"
+  },
+  "ref_licencia": "113/1995/00013",
+  "id_local": 120000114,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f47235"
+  },
+  "ref_licencia": "120/2001/04211",
+  "id_local": 280060340,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "22/04/2002"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4a8f9"
+  },
+  "ref_licencia": "500/2013/01704",
+  "id_local": 285000494,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "27/03/2013"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f40b2a"
+  },
+  "ref_licencia": "500/2012/05926",
+  "id_local": 270527063,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "20/12/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f498f1"
+  },
+  "ref_licencia": "500/2020/07289",
+  "id_local": 280060653,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "12/01/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3f232"
+  },
+  "ref_licencia": "500/2021/01401",
+  "id_local": 270571648,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "17/03/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5ac82"
+  },
+  "ref_licencia": "110/2007/03220",
+  "id_local": 270306510,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "17/04/2007"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f54546"
+  },
+  "ref_licencia": "500/2015/14918",
+  "id_local": 90000058,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "06/09/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4eccc"
+  },
+  "ref_licencia": "111/2001/05903",
+  "id_local": 280054994,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "22/01/2002"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f49c67"
+  },
+  "ref_licencia": "500/2017/01120",
+  "id_local": 280018528,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "09/01/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f57f31"
+  },
+  "ref_licencia": "105/2004/00429",
+  "id_local": 270092752,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "03/06/2004"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f49d40"
+  },
+  "ref_licencia": "111/2009/02287",
+  "id_local": 280053290,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "16/06/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f44330"
+  },
+  "ref_licencia": "500/2015/11843",
+  "id_local": 270555856,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "11/12/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f443cb"
+  },
+  "ref_licencia": "500/2015/09909",
+  "id_local": 280038652,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "10/08/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4b79a"
+  },
+  "ref_licencia": "500/2018/06486",
+  "id_local": 285010301,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "06/06/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f54983"
+  },
+  "ref_licencia": "110/2004/06058",
+  "id_local": 100001410,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "23/05/2005"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f44e72"
+  },
+  "ref_licencia": "500/2014/08379",
+  "id_local": 280045078,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "11/08/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f566b3"
+  },
+  "ref_licencia": "500/2017/00327",
+  "id_local": 150000846,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "04/04/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f43e1c"
+  },
+  "ref_licencia": "106/2003/00788",
+  "id_local": 280029620,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f44d89"
+  },
+  "ref_licencia": "500/2016/09403",
+  "id_local": 270559923,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "07/09/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f39723"
+  },
+  "ref_licencia": "500/2011/05242",
+  "id_local": 270473500,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "09/05/2011"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f46ccd"
+  },
+  "ref_licencia": "108/2000/03447",
+  "id_local": 280047317,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "09/07/2002"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3a72b"
+  },
+  "ref_licencia": "105/2007/00578",
+  "id_local": 270493502,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "08/11/2007"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4b5b8"
+  },
+  "ref_licencia": "500/2019/08465",
+  "id_local": 285016028,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "23/10/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4629f"
+  },
+  "ref_licencia": "108/2009/03625",
+  "id_local": 280048554,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "13/04/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f546e9"
+  },
+  "ref_licencia": "500/2013/07770",
+  "id_local": 90000853,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "02/06/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f42c83"
+  },
+  "ref_licencia": "103/2008/03778",
+  "id_local": 280020159,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "18/09/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f39576"
+  },
+  "ref_licencia": "110/1993/02351",
+  "id_local": 270482592,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f5587e"
+  },
+  "ref_licencia": "109/2010/00994",
+  "id_local": 90000611,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "19/02/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4df48"
+  },
+  "ref_licencia": "500/2012/03691",
+  "id_local": 280048546,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "31/07/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f40ac8"
+  },
+  "ref_licencia": "104/2003/00622",
+  "id_local": 280002592,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "17/09/2003"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4442a"
+  },
+  "ref_licencia": "111/2007/02739",
+  "id_local": 270540771,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "12/03/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f50b50"
+  },
+  "ref_licencia": "500/2020/06137",
+  "id_local": 285000763,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "15/10/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f406fd"
+  },
+  "ref_licencia": "500/2016/06544",
+  "id_local": 280002199,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "29/04/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f474f1"
+  },
+  "ref_licencia": "500/2014/12023",
+  "id_local": 280010432,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "26/04/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f587c5"
+  },
+  "ref_licencia": "103/2007/02532",
+  "id_local": 270060330,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "07/06/2007"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f58581"
+  },
+  "ref_licencia": "106/1993/01267",
+  "id_local": 270105100,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4c795"
+  },
+  "ref_licencia": "500/2012/03198",
+  "id_local": 285004033,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "24/01/2013"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f575b7"
+  },
+  "ref_licencia": "104/2009/06078",
+  "id_local": 270077588,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "09/10/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f456bf"
+  },
+  "ref_licencia": "107/2005/05637",
+  "id_local": 280038846,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "16/03/2007"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f5289e"
+  },
+  "ref_licencia": "104/2008/08183",
+  "id_local": 40001308,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "07/10/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f48f93"
+  },
+  "ref_licencia": "101/2002/17551",
+  "id_local": 280007997,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f55ff2"
+  },
+  "ref_licencia": "112/2006/06891",
+  "id_local": 170001599,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "11/06/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f57de9"
+  },
+  "ref_licencia": "500/2017/12837",
+  "id_local": 270045049,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "29/01/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3a5ca"
+  },
+  "ref_licencia": "111/1999/03464",
+  "id_local": 270491241,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3bac9"
+  },
+  "ref_licencia": "102/2006/00138",
+  "id_local": 270523881,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "15/02/2006"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4e561"
+  },
+  "ref_licencia": "113/1995/00346",
+  "id_local": 280050106,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "25/02/2002"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f39d08"
+  },
+  "ref_licencia": "104/2002/03206",
+  "id_local": 270512258,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "09/03/2004"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3c579"
+  },
+  "ref_licencia": "112/2008/00051",
+  "id_local": 270415368,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "28/03/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f43481"
+  },
+  "ref_licencia": "105/2007/01809",
+  "id_local": 280022396,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "02/01/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f560a4"
+  },
+  "ref_licencia": "500/2023/00275",
+  "id_local": 200001043,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "23/10/2023"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5c741"
+  },
+  "ref_licencia": "102/2005/00091",
+  "id_local": 270379037,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "03/02/2005"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3d13d"
+  },
+  "ref_licencia": "500/2014/05962",
+  "id_local": 270536292,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "23/07/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f4119f"
+  },
+  "ref_licencia": "500/2012/02182",
+  "id_local": 280008333,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "08/05/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5d04a"
+  },
+  "ref_licencia": "500/2015/03110",
+  "id_local": 270248625,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "27/04/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f38d92"
+  },
+  "ref_licencia": "109/2009/04757",
+  "id_local": 270446802,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "23/12/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f47598"
+  },
+  "ref_licencia": "500/2019/00223",
+  "id_local": 280060788,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "05/02/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4d09f"
+  },
+  "ref_licencia": "500/2017/01459",
+  "id_local": 285005803,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "25/01/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5a3c8"
+  },
+  "ref_licencia": "500/2015/03012",
+  "id_local": 270249173,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "06/10/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f481a8"
+  },
+  "ref_licencia": "108/2005/09755",
+  "id_local": 280048799,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "08/05/2006"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4aea1"
+  },
+  "ref_licencia": "500/2012/03113",
+  "id_local": 285006733,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "29/06/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f50ee9"
+  },
+  "ref_licencia": "500/2016/13075",
+  "id_local": 285003968,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "27/11/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5c410"
+  },
+  "ref_licencia": "119/1999/03254",
+  "id_local": 270366871,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f48944"
+  },
+  "ref_licencia": "113/2006/04396",
+  "id_local": 280049891,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "23/05/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f436cf"
+  },
+  "ref_licencia": "500/2014/09719",
+  "id_local": 270538253,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "17/04/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3b953"
+  },
+  "ref_licencia": "112/2002/00690",
+  "id_local": 270519234,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "24/06/2002"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3b89f"
+  },
+  "ref_licencia": "500/2017/08262",
+  "id_local": 270526471,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "14/03/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f38dfd"
+  },
+  "ref_licencia": "113/2008/05811",
+  "id_local": 270438407,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "15/12/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3f591"
+  },
+  "ref_licencia": "113/2005/02292",
+  "id_local": 270521117,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "19/12/2006"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f47d2a"
+  },
+  "ref_licencia": "500/2021/06855",
+  "id_local": 280063266,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "07/02/2022"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3bca3"
+  },
+  "ref_licencia": "500/2018/06604",
+  "id_local": 270522597,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "08/06/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5c902"
+  },
+  "ref_licencia": "110/2002/04441",
+  "id_local": 270313043,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "22/10/2002"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f47775"
+  },
+  "ref_licencia": "111/2009/10478",
+  "id_local": 280053401,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "15/02/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f5223d"
+  },
+  "ref_licencia": "101/2009/14393",
+  "id_local": 10002350,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "09/12/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f59a28"
+  },
+  "ref_licencia": "106/2004/08467",
+  "id_local": 270104770,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "31/10/2005"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f57433"
+  },
+  "ref_licencia": "102/2002/00211",
+  "id_local": 270057077,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f46340"
+  },
+  "ref_licencia": "107/2004/04005",
+  "id_local": 280037687,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "28/07/2005"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f52cb5"
+  },
+  "ref_licencia": "500/2012/00582",
+  "id_local": 50001446,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "03/02/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f58040"
+  },
+  "ref_licencia": "105/2003/04095",
+  "id_local": 270095765,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "02/02/2004"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5aaa2"
+  },
+  "ref_licencia": "500/2012/01879",
+  "id_local": 270181351,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "19/04/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f41c72"
+  },
+  "ref_licencia": "101/2007/00260",
+  "id_local": 280011940,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "03/12/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5d143"
+  },
+  "ref_licencia": "101/2001/12210",
+  "id_local": 270418124,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "26/05/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4bc1b"
+  },
+  "ref_licencia": "500/2012/04913",
+  "id_local": 280069253,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "26/10/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f542dc"
+  },
+  "ref_licencia": "110/2006/02339",
+  "id_local": 100001711,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "19/04/2006"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3db0d"
+  },
+  "ref_licencia": "500/2011/07125",
+  "id_local": 270543317,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "28/09/2011"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4ea67"
+  },
+  "ref_licencia": "111/2007/01378",
+  "id_local": 280053829,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "12/03/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4bb8a"
+  },
+  "ref_licencia": "500/2015/10497",
+  "id_local": 285004246,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "14/03/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f53a5e"
+  },
+  "ref_licencia": "109/2003/00646",
+  "id_local": 90001193,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "19/05/2005"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5d17a"
+  },
+  "ref_licencia": "111/1997/07119",
+  "id_local": 270415411,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "20/01/2003"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f394bb"
+  },
+  "ref_licencia": "103/2010/02447",
+  "id_local": 270287626,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "26/04/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3be78"
+  },
+  "ref_licencia": "101/2003/04860",
+  "id_local": 270531277,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "14/06/2005"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5903f"
+  },
+  "ref_licencia": "500/2022/00389",
+  "id_local": 270091807,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "07/02/2022"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f44acc"
+  },
+  "ref_licencia": "106/2006/03880",
+  "id_local": 280030491,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "18/06/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f55f40"
+  },
+  "ref_licencia": "112/2004/04487",
+  "id_local": 170001334,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "12/12/2005"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3fccf"
+  },
+  "ref_licencia": "500/2011/06209",
+  "id_local": 280000032,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "15/07/2011"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3ab54"
+  },
+  "ref_licencia": "500/2016/14528",
+  "id_local": 270352071,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "27/02/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f570bd"
+  },
+  "ref_licencia": "500/2014/12336",
+  "id_local": 200001879,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "18/12/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4b56f"
+  },
+  "ref_licencia": "500/2020/07957",
+  "id_local": 280022295,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "25/10/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f545b4"
+  },
+  "ref_licencia": "500/2015/18205",
+  "id_local": 90001367,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "03/01/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f44cf1"
+  },
+  "ref_licencia": "110/2009/13446",
+  "id_local": 280041587,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "30/07/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f5093a"
+  },
+  "ref_licencia": "500/2016/13204",
+  "id_local": 285008462,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "11/09/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5997f"
+  },
+  "ref_licencia": "108/1993/02634",
+  "id_local": 270229152,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3eb54"
+  },
+  "ref_licencia": "500/2014/00116",
+  "id_local": 270545730,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "12/12/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5b0c8"
+  },
+  "ref_licencia": "500/2012/00899",
+  "id_local": 270182261,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "21/02/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3bdf0"
+  },
+  "ref_licencia": "104/2004/09264",
+  "id_local": 270520554,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "28/12/2004"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f49069"
+  },
+  "ref_licencia": "113/2003/00167",
+  "id_local": 280050664,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "10/10/2005"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4b687"
+  },
+  "ref_licencia": "106/2009/05913",
+  "id_local": 280031344,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "05/11/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f57b0a"
+  },
+  "ref_licencia": "500/2011/03315",
+  "id_local": 270084117,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "23/02/2011"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f52c6c"
+  },
+  "ref_licencia": "105/2009/04896",
+  "id_local": 50001353,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/03/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4848c"
+  },
+  "ref_licencia": "220/2010/00329",
+  "id_local": 280055484,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3d667"
+  },
+  "ref_licencia": "111/2007/01027",
+  "id_local": 270546167,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "17/12/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4eb30"
+  },
+  "ref_licencia": "500/2012/03362",
+  "id_local": 290000103,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "12/07/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f41246"
+  },
+  "ref_licencia": "500/2014/12362",
+  "id_local": 280008413,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "30/03/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f45c04"
+  },
+  "ref_licencia": "500/2017/08570",
+  "id_local": 270546879,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "09/09/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5969d"
+  },
+  "ref_licencia": "106/2000/00885",
+  "id_local": 270110419,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3a978"
+  },
+  "ref_licencia": "106/2000/00388",
+  "id_local": 270511238,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f41015"
+  },
+  "ref_licencia": "500/2016/00326",
+  "id_local": 280010839,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "12/03/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f52e78"
+  },
+  "ref_licencia": "104/2008/08156",
+  "id_local": 40002414,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "21/07/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3f40e"
+  },
+  "ref_licencia": "500/2013/07477",
+  "id_local": 270553314,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "09/09/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f42c1c"
+  },
+  "ref_licencia": "102/2009/07457",
+  "id_local": 280017986,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "10/05/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f46c40"
+  },
+  "ref_licencia": "104/2005/04415",
+  "id_local": 280002026,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "02/11/2005"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f389f4"
+  },
+  "ref_licencia": "111/1994/05450",
+  "id_local": 270283349,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f53b30"
+  },
+  "ref_licencia": "104/2005/06066",
+  "id_local": 40002438,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/02/2011"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f42d1c"
+  },
+  "ref_licencia": "103/2008/00988",
+  "id_local": 280020854,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "07/03/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f52e81"
+  },
+  "ref_licencia": "105/2007/04478",
+  "id_local": 50001920,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "07/09/2007"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f419a1"
+  },
+  "ref_licencia": "500/2015/05527",
+  "id_local": 280010263,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "06/10/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3c27c"
+  },
+  "ref_licencia": "500/2012/00693",
+  "id_local": 270528192,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "09/02/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f43541"
+  },
+  "ref_licencia": "106/1998/06097",
+  "id_local": 280031046,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "06/09/2002"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f44c3b"
+  },
+  "ref_licencia": "106/2008/01759",
+  "id_local": 280030705,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "25/03/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4def1"
+  },
+  "ref_licencia": "500/2014/10483",
+  "id_local": 280048446,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "26/12/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4bf0d"
+  },
+  "ref_licencia": "106/2000/04495",
+  "id_local": 280032612,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "08/05/2007"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f48cfb"
+  },
+  "ref_licencia": "500/2011/05365",
+  "id_local": 280007723,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "16/05/2011"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f402a2"
+  },
+  "ref_licencia": "500/2022/04812",
+  "id_local": 270570664,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "04/07/2022"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f51a5b"
+  },
+  "ref_licencia": "500/2021/02357",
+  "id_local": 20001092,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "29/03/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f430d4"
+  },
+  "ref_licencia": "106/1996/03860",
+  "id_local": 280030257,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4c8ed"
+  },
+  "ref_licencia": "500/2013/05571",
+  "id_local": 285016128,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "05/09/2013"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3a720"
+  },
+  "ref_licencia": "102/2002/04510",
+  "id_local": 270515618,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "14/08/2006"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f43d63"
+  },
+  "ref_licencia": "107/1999/05478",
+  "id_local": 270538615,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "15/04/2004"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3c9be"
+  },
+  "ref_licencia": "500/2012/00363",
+  "id_local": 270525362,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "24/01/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4fbca"
+  },
+  "ref_licencia": "500/2012/05588",
+  "id_local": 280044718,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "12/12/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4cf92"
+  },
+  "ref_licencia": "500/2017/11549",
+  "id_local": 285018126,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "18/12/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f47d29"
+  },
+  "ref_licencia": "112/2007/04579",
+  "id_local": 280063252,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "15/06/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3fb20"
+  },
+  "ref_licencia": "104/2003/02518",
+  "id_local": 280003653,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "23/10/2003"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f55cad"
+  },
+  "ref_licencia": "112/2009/01879",
+  "id_local": 170000373,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "30/04/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4f0f5"
+  },
+  "ref_licencia": "500/2015/11540",
+  "id_local": 280057815,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "19/08/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4c350"
+  },
+  "ref_licencia": "500/2012/02578",
+  "id_local": 280036061,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "31/05/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f407f4"
+  },
+  "ref_licencia": "101/2010/04053",
+  "id_local": 280008615,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "03/08/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f413ba"
+  },
+  "ref_licencia": "101/2008/12679",
+  "id_local": 280008514,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "25/03/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4328e"
+  },
+  "ref_licencia": "106/2009/05655",
+  "id_local": 280030414,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "10/09/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3ca58"
+  },
+  "ref_licencia": "500/2014/05176",
+  "id_local": 270530679,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/12/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5a1f8"
+  },
+  "ref_licencia": "112/2006/00286",
+  "id_local": 270180759,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "24/07/2006"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4e755"
+  },
+  "ref_licencia": "110/2003/00843",
+  "id_local": 280041880,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "03/04/2003"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3ed3d"
+  },
+  "ref_licencia": "101/2000/13377",
+  "id_local": 270512762,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5cbb8"
+  },
+  "ref_licencia": "104/2009/02207",
+  "id_local": 270402419,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/06/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f58afb"
+  },
+  "ref_licencia": "104/2007/04605",
+  "id_local": 270080924,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "11/02/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3ba4a"
+  },
+  "ref_licencia": "500/2020/01697",
+  "id_local": 270526724,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "02/06/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f55a26"
+  },
+  "ref_licencia": "112/2009/04523",
+  "id_local": 170001217,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "16/07/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f57f68"
+  },
+  "ref_licencia": "105/2010/00617",
+  "id_local": 270093575,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "21/05/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f46745"
+  },
+  "ref_licencia": "113/2006/07640",
+  "id_local": 280051003,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "18/05/2007"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f574aa"
+  },
+  "ref_licencia": "500/2018/08831",
+  "id_local": 270096642,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "06/09/2018"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3eb31"
+  },
+  "ref_licencia": "500/2015/08420",
+  "id_local": 270545667,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "03/06/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f39daf"
+  },
+  "ref_licencia": "500/2020/07395",
+  "id_local": 270512729,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "16/12/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f427a0"
+  },
+  "ref_licencia": "102/2003/09114",
+  "id_local": 280017868,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "21/05/2004"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3ee24"
+  },
+  "ref_licencia": "111/2002/04474",
+  "id_local": 270517165,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "12/12/2002"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5cbb6"
+  },
+  "ref_licencia": "500/2019/09444",
+  "id_local": 270402362,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "05/09/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f474a0"
+  },
+  "ref_licencia": "500/2020/07214",
+  "id_local": 280060653,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "08/02/2021"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4dcd1"
+  },
+  "ref_licencia": "500/2014/09488",
+  "id_local": 280047948,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "10/10/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4e7f5"
+  },
+  "ref_licencia": "111/2008/00587",
+  "id_local": 280052425,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "21/09/2011"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3daf6"
+  },
+  "ref_licencia": "102/2000/05588",
+  "id_local": 270479133,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4674d"
+  },
+  "ref_licencia": "500/2013/04303",
+  "id_local": 280048823,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "19/07/2013"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5c6ab"
+  },
+  "ref_licencia": "101/1998/02774",
+  "id_local": 270304459,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "30/11/1999"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f52729"
+  },
+  "ref_licencia": "102/2002/04531",
+  "id_local": 20000129,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4a56c"
+  },
+  "ref_licencia": "103/2009/01410",
+  "id_local": 280020650,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "28/07/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f53b93"
+  },
+  "ref_licencia": "109/2007/01504",
+  "id_local": 90001390,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "31/01/2011"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5b652"
+  },
+  "ref_licencia": "106/2009/02186",
+  "id_local": 270331660,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "27/10/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3cea6"
+  },
+  "ref_licencia": "500/2013/06670",
+  "id_local": 270447681,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "28/06/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4605f"
+  },
+  "ref_licencia": "108/2007/08614",
+  "id_local": 280048223,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "31/08/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f39c60"
+  },
+  "ref_licencia": "113/2006/01178",
+  "id_local": 270473895,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "06/04/2006"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f43956"
+  },
+  "ref_licencia": "106/2006/05584",
+  "id_local": 280031599,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "16/10/2006"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f59a5c"
+  },
+  "ref_licencia": "106/2001/04516",
+  "id_local": 270104869,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f551c0"
+  },
+  "ref_licencia": "500/2013/00262",
+  "id_local": 140000546,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "24/01/2013"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f43765"
+  },
+  "ref_licencia": "500/2013/00374",
+  "id_local": 280022805,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "11/09/2013"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f58eb1"
+  },
+  "ref_licencia": "110/2004/05335",
+  "id_local": 270140725,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f5136e"
+  },
+  "ref_licencia": "500/2019/08793",
+  "id_local": 285027796,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "27/08/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f42f65"
+  },
+  "ref_licencia": "500/2016/14765",
+  "id_local": 280021147,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "27/09/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4cb69"
+  },
+  "ref_licencia": "500/2023/00148",
+  "id_local": 285003674,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "21/06/2023"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f55853"
+  },
+  "ref_licencia": "109/2006/05047",
+  "id_local": 90000593,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "30/11/2007"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5c800"
+  },
+  "ref_licencia": "110/1995/05020",
+  "id_local": 270309375,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f47855"
+  },
+  "ref_licencia": "500/2013/00891",
+  "id_local": 280062144,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "31/12/2013"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f45f14"
+  },
+  "ref_licencia": "500/2011/06317",
+  "id_local": 280041885,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "22/07/2011"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4c485"
+  },
+  "ref_licencia": "500/2012/04114",
+  "id_local": 285002227,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "31/08/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f58e9d"
+  },
+  "ref_licencia": "110/2004/00201",
+  "id_local": 270140438,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5bb5a"
+  },
+  "ref_licencia": "500/2017/03612",
+  "id_local": 270308913,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "26/04/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f40630"
+  },
+  "ref_licencia": "109/2008/02427",
+  "id_local": 270525612,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "12/12/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3d2e2"
+  },
+  "ref_licencia": "500/2012/00599",
+  "id_local": 270542371,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "06/02/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5c8ec"
+  },
+  "ref_licencia": "104/2005/08214",
+  "id_local": 270393556,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "26/11/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f46135"
+  },
+  "ref_licencia": "109/2009/05977",
+  "id_local": 280044050,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "21/10/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f47c0a"
+  },
+  "ref_licencia": "500/2012/03456",
+  "id_local": 280062655,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "18/07/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f39e6c"
+  },
+  "ref_licencia": "105/2000/02977",
+  "id_local": 270452386,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "21/11/2000"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f40616"
+  },
+  "ref_licencia": "500/2014/00503",
+  "id_local": 280002020,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "24/01/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3c1fa"
+  },
+  "ref_licencia": "110/2003/04809",
+  "id_local": 270523212,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "03/11/2003"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3f8da"
+  },
+  "ref_licencia": "500/2019/12086",
+  "id_local": 270568589,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "29/01/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3f29b"
+  },
+  "ref_licencia": "103/2002/05771",
+  "id_local": 270515844,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "29/05/2003"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3ae60"
+  },
+  "ref_licencia": "102/2000/04571",
+  "id_local": 270507725,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "15/02/2001"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f59438"
+  },
+  "ref_licencia": "110/2001/03928",
+  "id_local": 270236028,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "15/10/2001"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f595d7"
+  },
+  "ref_licencia": "500/2014/06467",
+  "id_local": 270097871,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "16/04/2017"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f39b9d"
+  },
+  "ref_licencia": "111/1999/00911",
+  "id_local": 270472538,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5b01b"
+  },
+  "ref_licencia": "101/2006/03799",
+  "id_local": 270279476,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "06/03/2007"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3ca79"
+  },
+  "ref_licencia": "500/2016/12741",
+  "id_local": 270525549,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "23/09/2016"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f42347"
+  },
+  "ref_licencia": "500/2014/03617",
+  "id_local": 280021510,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "14/03/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f5709b"
+  },
+  "ref_licencia": "121/2008/01166",
+  "id_local": 210001002,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f41472"
+  },
+  "ref_licencia": "101/2007/16537",
+  "id_local": 280009746,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "15/09/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5c3d4"
+  },
+  "ref_licencia": "500/2020/06075",
+  "id_local": 270365615,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "02/10/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f54337"
+  },
+  "ref_licencia": "111/1995/05161",
+  "id_local": 110000150,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f430f4"
+  },
+  "ref_licencia": "105/2005/01829",
+  "id_local": 280021381,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "26/05/2005"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f53606"
+  },
+  "ref_licencia": "500/2015/08819",
+  "id_local": 70000256,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "12/06/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3a76f"
+  },
+  "ref_licencia": "500/2017/14303",
+  "id_local": 270471379,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "16/03/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f59232"
+  },
+  "ref_licencia": "500/2019/13543",
+  "id_local": 270143296,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "16/11/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4a36b"
+  },
+  "ref_licencia": "500/2013/07061",
+  "id_local": 280063104,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "30/10/2013"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f52bab"
+  },
+  "ref_licencia": "500/2013/07224",
+  "id_local": 30000950,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "30/12/2013"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5ae48"
+  },
+  "ref_licencia": "102/1996/03179",
+  "id_local": 270193920,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3d0bc"
+  },
+  "ref_licencia": "500/2012/01903",
+  "id_local": 270530356,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "20/04/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3b1fa"
+  },
+  "ref_licencia": "111/2005/03595",
+  "id_local": 270523834,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "26/05/2006"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3da94"
+  },
+  "ref_licencia": "111/2000/04378",
+  "id_local": 270536119,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/09/2000"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4660b"
+  },
+  "ref_licencia": "108/2005/04337",
+  "id_local": 280046089,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "04/05/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3d10b"
+  },
+  "ref_licencia": "113/1993/00344",
+  "id_local": 270541742,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "28/01/1993"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5c34b"
+  },
+  "ref_licencia": "110/1998/00990",
+  "id_local": 270282094,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4e4ce"
+  },
+  "ref_licencia": "110/2009/01581",
+  "id_local": 280041706,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "19/10/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4e0ba"
+  },
+  "ref_licencia": "500/2014/01005",
+  "id_local": 285043912,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "10/02/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5ba10"
+  },
+  "ref_licencia": "500/2013/08199",
+  "id_local": 270321765,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "30/03/2014"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f51e6f"
+  },
+  "ref_licencia": "500/2012/02986",
+  "id_local": 30000351,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "22/06/2012"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5bcf2"
+  },
+  "ref_licencia": "102/2008/04337",
+  "id_local": 270330730,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "02/09/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5c238"
+  },
+  "ref_licencia": "119/1999/00966",
+  "id_local": 270360053,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4494f"
+  },
+  "ref_licencia": "110/2002/06891",
+  "id_local": 280041196,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "06/11/2002"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f5394a"
+  },
+  "ref_licencia": "106/1998/03526",
+  "id_local": 70001550,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f44b00"
+  },
+  "ref_licencia": "500/2015/07273",
+  "id_local": 270558601,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "07/07/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3914d2800cb29f3a5a5"
+  },
+  "ref_licencia": "101/2009/12186",
+  "id_local": 270469151,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "16/07/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f42084"
+  },
+  "ref_licencia": "500/2020/02977",
+  "id_local": 280010166,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "22/05/2020"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f58278"
+  },
+  "ref_licencia": "104/2000/05159",
+  "id_local": 270072884,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "03/07/2001"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f542c1"
+  },
+  "ref_licencia": "108/2008/08185",
+  "id_local": 80001090,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/09/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3e183"
+  },
+  "ref_licencia": "105/2006/01542",
+  "id_local": 270539935,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "27/10/2006"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f43bef"
+  },
+  "ref_licencia": "106/2003/04660",
+  "id_local": 280032144,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "08/05/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f583fd"
+  },
+  "ref_licencia": "108/2005/01888",
+  "id_local": 270127499,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "05/12/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f53ca0"
+  },
+  "ref_licencia": "107/2008/03716",
+  "id_local": 70001990,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "27/06/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f46036"
+  },
+  "ref_licencia": "108/2008/00996",
+  "id_local": 280048163,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "20/10/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f55148"
+  },
+  "ref_licencia": "111/2004/05434",
+  "id_local": 110003028,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "30/09/2004"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3fced"
+  },
+  "ref_licencia": "107/1994/04221",
+  "id_local": 270522581,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5b8b7"
+  },
+  "ref_licencia": "119/2009/03803",
+  "id_local": 270346553,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "09/02/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f40afa"
+  },
+  "ref_licencia": "101/2005/15363",
+  "id_local": 280010005,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "31/01/2007"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f4363c"
+  },
+  "ref_licencia": "105/2001/02126",
+  "id_local": 280021599,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "14/06/2007"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f42d39"
+  },
+  "ref_licencia": "103/2006/04255",
+  "id_local": 280020314,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "24/07/2007"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f47b84"
+  },
+  "ref_licencia": "500/2018/09435",
+  "id_local": 280011080,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "13/11/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f54032"
+  },
+  "ref_licencia": "500/2013/03360",
+  "id_local": 80000021,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "31/05/2013"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3c156"
+  },
+  "ref_licencia": "500/2013/04989",
+  "id_local": 270523030,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "15/10/2013"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3d7fe"
+  },
+  "ref_licencia": "105/2001/00553",
+  "id_local": 270458037,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "01/01/1900"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4f9b2"
+  },
+  "ref_licencia": "112/2003/04162",
+  "id_local": 280062830,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "07/12/2005"
+},
+{
+  "_id": {
+    "$oid": "679bb3924d2800cb29f3c513"
+  },
+  "ref_licencia": "103/2001/00722",
+  "id_local": 270435762,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "23/02/2001"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f463f6"
+  },
+  "ref_licencia": "109/2009/07499",
+  "id_local": 280044354,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "10/12/2009"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f497c7"
+  },
+  "ref_licencia": "102/2000/02552",
+  "id_local": 280017963,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "22/02/2002"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f47a06"
+  },
+  "ref_licencia": "112/2010/01136",
+  "id_local": 280062529,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "07/10/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4f54f"
+  },
+  "ref_licencia": "110/2008/10504",
+  "id_local": 280043739,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "17/09/2008"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f57481"
+  },
+  "ref_licencia": "500/2013/06414",
+  "id_local": 270023920,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "09/10/2013"
+},
+{
+  "_id": {
+    "$oid": "679bb3944d2800cb29f4c4b1"
+  },
+  "ref_licencia": "500/2011/07389",
+  "id_local": 285006255,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "17/10/2011"
+},
+{
+  "_id": {
+    "$oid": "679bb3934d2800cb29f45d2d"
+  },
+  "ref_licencia": "500/2018/14302",
+  "id_local": 270568396,
+  "tipo": {
+    "id_tipo_licencia": 2,
+    "desc_tipo_licencia": "Licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "15/01/2019"
+},
+{
+  "_id": {
+    "$oid": "679bb3954d2800cb29f4e573"
+  },
+  "ref_licencia": "113/2009/04913",
+  "id_local": 280050159,
+  "tipo": {
+    "id_tipo_licencia": 4,
+    "desc_tipo_licencia": "Transmisión de licencia Urbanística"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "26/02/2010"
+},
+{
+  "_id": {
+    "$oid": "679bb3974d2800cb29f5cac9"
+  },
+  "ref_licencia": "500/2014/06702",
+  "id_local": 270398678,
+  "tipo": {
+    "id_tipo_licencia": 1,
+    "desc_tipo_licencia": "Declaración Responsable"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "05/10/2015"
+},
+{
+  "_id": {
+    "$oid": "679bb3964d2800cb29f57518"
+  },
+  "ref_licencia": "104/2006/07741",
+  "id_local": 270075932,
+  "tipo": {
+    "id_tipo_licencia": 3,
+    "desc_tipo_licencia": "Licencia de Funcionamiento"
+  },
+  "situacion": {
+    "id_tipo_situacion_licencia": 2,
+    "desc_tipo_situacion_licencia": "Concedida"
+  },
+  "Fecha_Dec_Lic": "20/05/2010"
+}]
